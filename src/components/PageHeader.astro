@@ -1,0 +1,7 @@
+---
+import {ui,type Lang} from '../i18n/ui';
+import {pathFor} from '../../config.mjs';
+interface Props {lang:Lang;title:string;english:string;parent?:{title:string;path:string};}
+const {lang,title,english,parent}=Astro.props;
+---
+<div class="page-heading"><div class="wrap"><nav class="breadcrumbs" aria-label={lang==='ja'?'現在位置':'Breadcrumb'}><a href={pathFor(lang)}>{ui[lang].home}</a><span aria-hidden="true">/</span>{parent&&<><a href={pathFor(parent.path)}>{parent.title}</a><span aria-hidden="true">/</span></>}<span aria-current="page">{title}</span></nav><p class="eyebrow">{english}</p><h1>{title}</h1></div></div>

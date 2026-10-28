@@ -1,0 +1,31 @@
+---
+import '../styles/global.css';
+import {site} from '../lib/data';
+import {ui,type Lang,type PageKey} from '../i18n/ui';
+import {pathFor,absolute,mode} from '../../config.mjs';
+interface Props {lang:Lang;title:string;description?:string;page?:PageKey;route?:string;counterpart?:string;noindex?:boolean;}
+const {lang,title,description=`${title} — ${site.name[lang]}. ${site.overview[lang]}`,page='home',route=`${lang}/${page==='home'?'':page}`,counterpart,noindex=false}=Astro.props;
+const other:Lang=lang==='ja'?'en':'ja';
+const otherRoute=counterpart??route.replace(/^(ja|en)/,other);
+const primary:PageKey[]=['research','profile','members','publications','activities','join'];
+const auxiliary:PageKey[]=['news','contact'];
+---
+<!doctype html><html lang={lang}><head><meta charset="UTF-8"/><meta name="viewport" content="width=device-width, initial-scale=1"/><title>{title} | {site.name[lang]}</title><meta name="description" content={description}/><meta name="robots" content={mode==='demo'||noindex?'noindex, follow':'index, follow'}/><link rel="canonical" href={absolute(route)}/><link rel="alternate" hreflang={lang} href={absolute(route)}/><link rel="alternate" hreflang={other} href={absolute(otherRoute)}/><link rel="alternate" hreflang="x-default" href={absolute()}/><link rel="icon" type="image/svg+xml" href={pathFor('favicon.svg')}/><meta property="og:type" content="website"/><meta property="og:title" content={`${title} | ${site.name[lang]}`}/><meta property="og:description" content={description}/><meta property="og:url" content={absolute(route)}/><meta property="og:image" content={absolute('assets/abstract.svg')}/><meta property="og:locale" content={lang==='ja'?'ja_JP':'en_GB'}/><meta name="theme-color" content="#16324f"/></head>
+<body>
+<a class="skip-link" href="#main">{ui[lang].skip}</a>
+<header class="site-header"><div class="header-top wrap"><a class="brand" href={pathFor(lang)}><span class="brand-mark" aria-hidden="true">S<span>·</span></span><span><strong>{site.name[lang]}</strong><small>{site.institution[lang]}<span class="brand-department"> / {site.department[lang]}</span></small></span></a><div class="desktop-aux">{auxiliary.map(k=><a href={pathFor(`${lang}/${k}`)} aria-current={page===k?'page':undefined}>{ui[lang][k]}</a>)}<a class="language-link" lang={other} hreflang={other} href={pathFor(otherRoute)} aria-label={ui[lang].language}>{other==='en'?'EN':'JA'}<span aria-hidden="true"> ↗</span></a></div><button class="menu-toggle" aria-expanded="false" aria-controls="main-nav" hidden>{ui[lang].menu}<span aria-hidden="true"> ☰</span></button></div>
+<nav class="primary-nav wrap" id="main-nav" aria-label={ui[lang].menu}>{primary.map(k=><a href={pathFor(`${lang}/${k}`)} aria-current={page===k?'page':undefined}>{ui[lang][k]}</a>)}<div class="mobile-aux">{auxiliary.map(k=><a href={pathFor(`${lang}/${k}`)}>{ui[lang][k]}</a>)}<a lang={other} hreflang={other} href={pathFor(otherRoute)}>{other==='en'?'English':'日本語'} ↗</a></div></nav></header>
+<main id="main" tabindex="-1"><slot/></main>
+<footer class="site-footer"><div class="wrap footer-grid"><div><a class="footer-brand" href={pathFor(lang)}>{site.name[lang]}</a><p>{site.institution[lang]}<br/>{site.department[lang]}</p><p>{site.address[lang]}</p><a class="footer-contact" href={pathFor(`${lang}/contact`)}>{ui[lang].contact} ↗</a></div><div><h2>{ui[lang].links}</h2><ul>{site.links.map(l=><li>{l.url?<a href={l.url}>{l.label[lang]} ↗</a>:<span>{l.label[lang]} · {ui[lang].pending}</span>}</li>)}</ul></div></div><div class="wrap footer-bottom"><small>© {site.updatedAt.slice(0,4)} {site.name[lang]}. {ui[lang].copyright}</small><small>{ui[lang].updated}: <time datetime={site.updatedAt}>{site.updatedAt}</time></small><a href={pathFor('')}>日本語 / English</a></div></footer>
+<script>
+ const button=document.querySelector<HTMLButtonElement>('.menu-toggle');
+ const nav=document.querySelector<HTMLElement>('#main-nav');
+ if(button&&nav){
+  button.hidden=false;document.documentElement.classList.add('js');
+  const close=()=>{button.setAttribute('aria-expanded','false');nav.classList.remove('is-open');};
+  button.addEventListener('click',()=>{const open=button.getAttribute('aria-expanded')!=='true';button.setAttribute('aria-expanded',String(open));nav.classList.toggle('is-open',open);});
+  document.addEventListener('keydown',e=>{if(e.key==='Escape'&&button.getAttribute('aria-expanded')==='true'){close();button.focus();}});
+  matchMedia('(min-width: 1100px)').addEventListener('change',close);
+ }
+</script>
+</body></html>

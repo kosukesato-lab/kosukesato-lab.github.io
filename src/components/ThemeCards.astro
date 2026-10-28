@@ -1,0 +1,9 @@
+---
+import {themesFor} from '../lib/content';
+import {ui,type Lang} from '../i18n/ui';
+import {pathFor} from '../../config.mjs';
+import Placeholder from './Placeholder.astro';
+interface Props {lang:Lang;}
+const {lang}=Astro.props;
+---
+<div class="theme-grid">{themesFor(lang).map(({frontmatter:t})=><article class="theme-card"><a class="theme-image" href={pathFor(`${lang}/research/${t.slug}`)} tabindex="-1" aria-hidden="true"><Placeholder lang={lang} image={t.imageThumbnail || t.image}/></a><div class="theme-card-body"><span class="eyebrow">RESEARCH {String(t.order).padStart(2,'0')}</span><h3><a href={pathFor(`${lang}/research/${t.slug}`)}>{t.title}</a></h3><p>{t.summary}</p><a class="text-link" href={pathFor(`${lang}/research/${t.slug}`)}>{ui[lang].readMore}<span aria-hidden="true">↗</span></a></div></article>)}</div>

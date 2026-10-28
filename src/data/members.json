@@ -1,0 +1,23 @@
+[
+  {
+    "isPlaceholder": false,
+    "draft": false,
+    "updatedAt": "2026-10-27",
+    "id": "pi",
+    "name": {
+      "ja": "佐藤 宏亮",
+      "en": "Kosuke Sato"
+    },
+    "group": "faculty",
+    "role": {
+      "ja": "准教授",
+      "en": "Associate Professor"
+    },
+    "themeIds": [],
+    "photo": "assets/sato-portrait.png",
+    "url": null,
+    "order": 0,
+    "status": "active",
+    "graduationYear": null
+  }
+]

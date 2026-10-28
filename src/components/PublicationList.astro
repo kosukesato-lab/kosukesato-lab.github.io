@@ -1,0 +1,17 @@
+---
+import type {Publication} from '../lib/data';
+import {ui,label,type Lang} from '../i18n/ui';
+import {pathFor} from '../../config.mjs';
+interface Props {items:Publication[];lang:Lang;filterable?:boolean;}
+const {items,lang,filterable=false}=Astro.props;
+const years=[...new Set(items.map(x=>x.year))];
+---
+<div class="publication-list">
+{years.map(year=><section class="publication-year" data-year-group><h2>{year}</h2><ol>{items.filter(p=>p.year===year).map(p=><li id={p.id} class="publication-entry" data-publication data-year={p.year} data-type={p.type} data-search={`${p.title} ${p.authors.map(a=>a.name).join(' ')} ${p.journal}`.toLocaleLowerCase()}>
+<div class="publication-meta"><span>{label(lang,p.type)}</span><span>{label(lang,p.status)}</span>{p.isPlaceholder&&<span class="sample-badge">{ui[lang].sample}</span>}</div>
+<h3>{p.title}</h3><p class="authors">{p.authors.map((a,i)=><Fragment>{i>0?', ':''}{a.memberId?<strong>{a.name}</strong>:a.name}{(a.corresponding||a.equalContribution)&&<sup>{a.corresponding?'*':''}{a.equalContribution?'†':''}</sup>}</Fragment>)}</p>
+<p class="journal"><cite>{p.journal}</cite>{p.volume&&<> · {p.volume}</>}{p.pages&&<> · {p.pages}</>}{p.articleNumber&&<> · {p.articleNumber}</>}</p>
+<div class="publication-links">{p.doi&&<a href={`https://doi.org/${p.doi}`}>DOI ↗</a>}{p.url&&<a href={p.url}>{ui[lang].readMore} ↗</a>}{p.pdf&&<a href={pathFor(p.pdf)}>PDF ↗</a>}{p.themeIds.map(id=><a href={pathFor(`${lang}/research/${id}`)}>{ui[lang].theme} {id.slice(-2)} →</a>)}</div>
+</li>)}</ol></section>)}
+</div>
+{filterable&&<p data-empty hidden class="empty-state">{ui[lang].empty}</p>}

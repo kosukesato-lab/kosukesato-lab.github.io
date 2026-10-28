@@ -1,0 +1,22 @@
+{
+  "id": "new-publication",
+  "title": "[論文タイトルを入力]",
+  "authors": [{ "name": "[著者氏名]", "memberId": null, "corresponding": false, "equalContribution": false }],
+  "journal": "[誌名]",
+  "year": 2026,
+  "volume": null,
+  "pages": null,
+  "articleNumber": null,
+  "type": "article",
+  "status": "published",
+  "order": 1,
+  "doi": null,
+  "url": null,
+  "pdf": null,
+  "featured": false,
+  "featuredOrder": 10,
+  "themeIds": [],
+  "isPlaceholder": true,
+  "draft": true,
+  "updatedAt": "2026-10-27"
+}

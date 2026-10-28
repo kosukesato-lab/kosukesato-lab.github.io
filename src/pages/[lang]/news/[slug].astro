@@ -1,0 +1,23 @@
+---
+import Layout from '../../../layouts/Layout.astro';
+import PageHeader from '../../../components/PageHeader.astro';
+import Placeholder from '../../../components/Placeholder.astro';
+import PublicationList from '../../../components/PublicationList.astro';
+import {news,research,type Entry} from '../../../lib/content';
+import {publications,activities} from '../../../lib/data';
+import {ui,label,dateLabel,type Lang} from '../../../i18n/ui';
+import {pathFor} from '../../../../config.mjs';
+import type {MarkdownInstance} from 'astro';
+export function getStaticPaths(){return news.map(entry=>({params:{lang:entry.frontmatter.lang,slug:entry.frontmatter.slug},props:{entry}}));}
+interface Props {entry:MarkdownInstance<Entry>;}
+const {entry}=Astro.props;const data=entry.frontmatter,lang=data.lang as Lang,t=ui[lang];const Content=entry.Content;
+const other=lang==='ja'?'en':'ja';const counterpart=news.find(r=>r.frontmatter.translationKey===data.translationKey&&r.frontmatter.lang===other);
+---
+<Layout lang={lang} title={data.title} description={data.summary} page="news" route={`${lang}/news/${data.slug}`} counterpart={counterpart?`${other}/news/${counterpart.frontmatter.slug}`:`${other}/news`}>
+<PageHeader lang={lang} title={data.title} english="NEWS & TOPICS" parent={{title:t.news,path:`${lang}/news`}}/>
+<article class="wrap page-content"><div class="reading"><div class="article-meta"><time datetime={data.date}>{dateLabel(data.date!,lang)}</time><span class="category">{label(lang,data.category!)}</span>{data.isPlaceholder&&<span class="sample-badge">{t.sample}</span>}</div>{!counterpart&&<p class="page-note">{t.missingTranslation}</p>}<div class="prose"><Content/></div>{data.image&&<Placeholder lang={lang} image={data.image} alt={data.caption||data.summary}/>}</div>
+{data.publicationIds.length>0&&<section class="related-section"><h2>{t.related}</h2><PublicationList lang={lang} items={publications.filter(p=>data.publicationIds.includes(p.id))}/></section>}
+{data.themeIds&&data.themeIds.length>0&&<section class="reading"><h2>{t.relatedResearch}</h2><ul class="plain-list">{research.filter(r=>r.frontmatter.lang===lang&&data.themeIds!.includes(r.frontmatter.id)).map(({frontmatter:r})=><li><a href={pathFor(`${lang}/research/${r.slug}`)}>{r.title} →</a></li>)}</ul></section>}
+{data.activityIds&&data.activityIds.length>0&&<section class="reading"><h2>{t.relatedActivities}</h2><ul class="plain-list">{activities.filter(a=>data.activityIds!.includes(a.id)).map(a=><li><a href={pathFor(`${lang}/activities`)+`#${a.id}`}>{a.title[lang]} →</a></li>)}</ul></section>}
+<div class="detail-bottom reading"><a class="text-link" href={pathFor(`${lang}/news`)}>← {t.backNews}</a></div><p class="updated-note reading">{t.updated}: <time datetime={data.updatedAt}>{data.updatedAt}</time></p></article>
+</Layout>

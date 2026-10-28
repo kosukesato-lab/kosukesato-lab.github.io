@@ -1,0 +1,7 @@
+---
+import {ui,type Lang} from '../i18n/ui';
+interface Props {lang:Lang;kind?:'figure'|'photo';image?:string|null;alt?:string;width?:number;height?:number;}
+import {pathFor} from '../../config.mjs';
+const {lang,kind='figure',image,alt='',width=kind==='photo'?480:960,height=kind==='photo'?600:640}=Astro.props;
+---
+{image ? <img class:list={['content-image',kind]} src={pathFor(image)} alt={alt} width={width} height={height} loading="lazy"/> : <div class:list={['placeholder',kind]} role="img" aria-label={ui[lang][kind]}><span class="placeholder-mark" aria-hidden="true">{kind==='photo'?'○':'＋'}</span><span>{ui[lang][kind]}</span><small>{kind==='figure'?'RESEARCH FIGURE':'PORTRAIT'}</small></div>}

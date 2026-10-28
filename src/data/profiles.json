@@ -1,0 +1,216 @@
+[
+  {
+    "isPlaceholder": false,
+    "draft": false,
+    "updatedAt": "2026-10-27",
+    "id": "pi",
+    "name": {
+      "ja": "佐藤 宏亮",
+      "en": "Kosuke Sato"
+    },
+    "role": {
+      "ja": "准教授",
+      "en": "Associate Professor"
+    },
+    "degree": {
+      "ja": "博士（工学）",
+      "en": "Ph.D."
+    },
+    "affiliation": {
+      "ja": "電気通信大学 大学院情報理工学研究科 基盤理工学専攻",
+      "en": "Department of Engineering Science, Graduate School of Informatics and Engineering, The University of Electro-Communications"
+    },
+    "photo": "assets/sato-portrait.png",
+    "introduction": {
+      "ja": "材料の世界は興味深いので、できそうなことはやってみようと思います。",
+      "en": "The world of materials is fascinating, so I intend to explore whatever possibilities I can."
+    },
+    "keywords": {
+      "ja": [
+        "高分子材料",
+        "電気化学",
+        "マテリアルズインフォマティクス"
+      ],
+      "en": [
+        "Polymer materials",
+        "Electrochemistry",
+        "Informatics"
+      ]
+    },
+    "career": [
+      {
+        "isPlaceholder": false,
+        "draft": false,
+        "updatedAt": "2026-10-27",
+        "id": "history-6",
+        "start": "2026-10",
+        "end": null,
+        "label": {
+          "ja": "電気通信大学大学院情報理工学研究科 准教授",
+          "en": "Associate Professor, Graduate School of Informatics and Engineering, The University of Electro-Communications"
+        }
+      },
+      {
+        "isPlaceholder": false,
+        "draft": false,
+        "updatedAt": "2026-10-27",
+        "id": "history-5",
+        "start": "2024-10",
+        "end": "2026-09",
+        "label": {
+          "ja": "東京科学大学物質理工学院(大学統合による) 助教 [稲木研究室]",
+          "en": "Assistant Professor, Institute of Science Tokyo (Union of TITech) 【Inagi lab】"
+        }
+      },
+      {
+        "isPlaceholder": false,
+        "draft": false,
+        "updatedAt": "2026-10-27",
+        "id": "history-4",
+        "start": "2023-04",
+        "end": "2024-09",
+        "label": {
+          "ja": "東京工業大学物質理工学院 助教 [稲木研究室]",
+          "en": "Assistant Professor, Tokyo Institute of Technology 【Inagi lab】"
+        }
+      },
+      {
+        "isPlaceholder": false,
+        "draft": false,
+        "updatedAt": "2026-10-27",
+        "id": "history-3",
+        "start": "2022-04",
+        "end": "2023-03",
+        "label": {
+          "ja": "公益財団法人相模中央化学研究所 副主任研究員",
+          "en": "Assistant Senior Researcher, Sagami Chemical Research Institute"
+        }
+      },
+      {
+        "isPlaceholder": false,
+        "draft": false,
+        "updatedAt": "2026-10-27",
+        "id": "history-2",
+        "start": "2018-06",
+        "end": "2022-03",
+        "label": {
+          "ja": "公益財団法人相模中央化学研究所 博士研究員",
+          "en": "Postdoctoral Researcher, Sagami Chemical Research Institute"
+        }
+      },
+      {
+        "isPlaceholder": false,
+        "draft": false,
+        "updatedAt": "2026-10-27",
+        "id": "history-1",
+        "start": "2017-10",
+        "end": "2018-05",
+        "label": {
+          "ja": "日本学術振興会特別研究員PD(資格変更による) 慶應義塾大学理工学部・訪問研究員 【今井緒明研究室】",
+          "en": "JSPS special researcher PD (change from DC1), visiting researcher, Keio University 【Imai-Oaki lab】"
+        }
+      },
+      {
+        "isPlaceholder": false,
+        "draft": false,
+        "updatedAt": "2026-10-27",
+        "id": "history-0",
+        "start": "2016-04",
+        "end": "2017-09",
+        "label": {
+          "ja": "日本学術振興会特別研究員DC1 【今井緒明研究室】",
+          "en": "JSPS special researcher DC1, Keio University 【Imai-Oaki lab】"
+        }
+      }
+    ],
+    "education": [
+      {
+        "isPlaceholder": false,
+        "draft": false,
+        "updatedAt": "2026-10-27",
+        "id": "history-2",
+        "start": "2015-10",
+        "end": "2017-09",
+        "label": {
+          "ja": "同後期博士課程修了 博士(工学)取得",
+          "en": "Doctor Degree, Graduate School of Science and Technology, Keio University, Ph.D."
+        }
+      },
+      {
+        "isPlaceholder": false,
+        "draft": false,
+        "updatedAt": "2026-10-27",
+        "id": "history-1",
+        "start": "2014-04",
+        "end": "2015-09",
+        "label": {
+          "ja": "慶應義塾大学大学院理工学研究科総合デザイン工学専攻 前期博士課程修了",
+          "en": "Master Degree, Graduate School of Science and Technology, Keio University"
+        }
+      },
+      {
+        "isPlaceholder": false,
+        "draft": false,
+        "updatedAt": "2026-10-27",
+        "id": "history-0",
+        "start": "2010-04",
+        "end": "2014-03",
+        "label": {
+          "ja": "慶應義塾大学理工学部応用化学科 卒業",
+          "en": "Bachelor degree, School of Science and Technology, Keio University"
+        }
+      }
+    ],
+    "awards": [
+      {
+        "ja": "4. 相模中央化学研究所 優秀研究アイデア賞 2018",
+        "en": "4. Good research idea and design award, Sagami Chemical Research Institute 2018"
+      },
+      {
+        "ja": "3. 慶應義塾大学大学院・理工学研究科 藤原賞 (優秀学生表彰) 2017",
+        "en": "3. Fujiwara award, Graduate School of Science and Technology, Keio University 2017"
+      },
+      {
+        "ja": "2. 第6回CSJ化学フェスタ 優秀ポスター発表賞 2016",
+        "en": "2. Good poster presentation award, CSJ chemistry Festa 2016"
+      },
+      {
+        "ja": "1. 慶應義塾大学大学院・理工学研究科 優秀研究発表賞 2015",
+        "en": "1. Good research presentation award, Graduate School of Science and Technology, Keio University, 2015"
+      }
+    ],
+    "societies": [
+      {
+        "ja": "日本化学会",
+        "en": "The Chemical Society of Japan"
+      },
+      {
+        "ja": "高分子学会",
+        "en": "The Society of Polymer Science, Japan"
+      },
+      {
+        "ja": "電気化学会",
+        "en": "The Electrochemical Society of Japan"
+      }
+    ],
+    "service": [
+      {
+        "ja": "有機電子移動化学研究会 幹事 2025-",
+        "en": "Assistant organizer, Division of Organic Electron Transfer Chemistry, 2025-"
+      },
+      {
+        "ja": "第47回フッ素討論会運営委員 2024",
+        "en": "Assistant coordinator, The 47th Annual meeting of The Society of Fluorine Chemistry Japan, 2024"
+      },
+      {
+        "ja": "第75回高分子学会年会 プログラム編成委員 2026",
+        "en": "Program coordinator, The 75th Annual meeting of The Society of Polymer Science, Japan, 2026"
+      },
+      {
+        "ja": "高分子学会関東支部神奈川地区 若手の会運営委員 2024-2025",
+        "en": "Organizer, Young Researchers' Association of Kanagawa district group, Kanto-branch of The Society of Polymer Science, 2024-2025"
+      }
+    ],
+    "externalProfiles": []
+  }
+]

@@ -1,0 +1,10 @@
+---
+import {newsFor} from '../lib/content';
+import {ui,label,dateLabel,type Lang} from '../i18n/ui';
+import {pathFor} from '../../config.mjs';
+interface Props {lang:Lang;limit?:number;grouped?:boolean;}
+const {lang,limit,grouped=false}=Astro.props;
+const items=newsFor(lang).slice(0,limit);
+const years=grouped?[...new Set(items.map(x=>x.frontmatter.date!.slice(0,4)))]:[''];
+---
+{years.map(year=><section class="news-group">{year&&<h2>{year}</h2>}<ul class="news-list">{items.filter(x=>!year||x.frontmatter.date!.startsWith(year)).map(({frontmatter:n})=><li><time datetime={n.date}>{dateLabel(n.date!,lang)}</time><span class="category">{label(lang,n.category!)}</span><div><a href={pathFor(`${lang}/news/${n.slug}`)}>{n.title}<span aria-hidden="true"> ↗</span></a>{n.isPlaceholder&&<span class="sample-badge">{ui[lang].sample}</span>}{grouped&&<p>{n.summary}</p>}</div></li>)}</ul></section>)}

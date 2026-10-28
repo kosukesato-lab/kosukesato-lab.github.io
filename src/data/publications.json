@@ -1,0 +1,3188 @@
+[
+  {
+    "isPlaceholder": false,
+    "draft": false,
+    "updatedAt": "2026-10-27",
+    "id": "paper-28",
+    "title": "Precisely Controlled Electrochemical Phosphonylation: Tailoring π-Conjugated Polymer Properties for High-Performance Organic Electrochemical Transistors",
+    "authors": [
+      {
+        "name": "Kohei Taniguchi",
+        "memberId": null,
+        "corresponding": false,
+        "equalContribution": false
+      },
+      {
+        "name": "Kosuke Sato",
+        "memberId": "pi",
+        "corresponding": false,
+        "equalContribution": false
+      },
+      {
+        "name": "Shinsuke Inagi",
+        "memberId": null,
+        "corresponding": true,
+        "equalContribution": false
+      }
+    ],
+    "journal": "Angewandte Chemie International Edition, 65, e1180643, (2026)",
+    "year": 2026,
+    "type": "article",
+    "status": "published",
+    "order": 1,
+    "volume": null,
+    "pages": null,
+    "articleNumber": null,
+    "doi": null,
+    "url": null,
+    "pdf": null,
+    "featured": true,
+    "featuredOrder": 1,
+    "themeIds": [
+      "theme-02"
+    ]
+  },
+  {
+    "isPlaceholder": false,
+    "draft": false,
+    "updatedAt": "2026-10-27",
+    "id": "paper-27",
+    "title": "Electrochemically Controlled Deposition of Oriented Fluorinated Covalent Organic Framework Films for Selective Electrochemical Sensing",
+    "authors": [
+      {
+        "name": "Kento Imamura",
+        "memberId": null,
+        "corresponding": false,
+        "equalContribution": false
+      },
+      {
+        "name": "Kosuke Sato",
+        "memberId": "pi",
+        "corresponding": true,
+        "equalContribution": false
+      },
+      {
+        "name": "Shinsuke Inagi",
+        "memberId": null,
+        "corresponding": true,
+        "equalContribution": false
+      }
+    ],
+    "journal": "Chemistry of Materials, 38, 1469-1477 (2026)",
+    "year": 2026,
+    "type": "article",
+    "status": "published",
+    "order": 2,
+    "volume": null,
+    "pages": null,
+    "articleNumber": null,
+    "doi": null,
+    "url": null,
+    "pdf": null,
+    "featured": true,
+    "featuredOrder": 2,
+    "themeIds": [
+      "theme-01"
+    ]
+  },
+  {
+    "isPlaceholder": false,
+    "draft": false,
+    "updatedAt": "2026-10-27",
+    "id": "paper-26",
+    "title": "Electrochemical Postmodification of Polystyrene via Aromatic C–H Iodination",
+    "authors": [
+      {
+        "name": "Siyi Wang",
+        "memberId": null,
+        "corresponding": false,
+        "equalContribution": false
+      },
+      {
+        "name": "Kohei Taniguchi",
+        "memberId": null,
+        "corresponding": false,
+        "equalContribution": false
+      },
+      {
+        "name": "Koichiro Motokawa",
+        "memberId": null,
+        "corresponding": false,
+        "equalContribution": false
+      },
+      {
+        "name": "Kosuke Sato",
+        "memberId": "pi",
+        "corresponding": false,
+        "equalContribution": false
+      },
+      {
+        "name": "Shinsuke Inagi",
+        "memberId": null,
+        "corresponding": true,
+        "equalContribution": false
+      }
+    ],
+    "journal": "ACS Macro Letters, 2025, 14, 1615-1621, (2025)",
+    "year": 2025,
+    "type": "article",
+    "status": "published",
+    "order": 3,
+    "volume": null,
+    "pages": null,
+    "articleNumber": null,
+    "doi": null,
+    "url": null,
+    "pdf": null,
+    "featured": false,
+    "featuredOrder": 0,
+    "themeIds": []
+  },
+  {
+    "isPlaceholder": false,
+    "draft": false,
+    "updatedAt": "2026-10-27",
+    "id": "paper-25",
+    "title": "Electrochemical C–H Phosphonylation of Dissolved Conjugated Polymers via Direct Electron Transfer at the Electrode",
+    "authors": [
+      {
+        "name": "Kohei Taniguchi",
+        "memberId": null,
+        "corresponding": false,
+        "equalContribution": false
+      },
+      {
+        "name": "Kosuke Sato",
+        "memberId": "pi",
+        "corresponding": false,
+        "equalContribution": false
+      },
+      {
+        "name": "Shinsuke Inagi",
+        "memberId": null,
+        "corresponding": true,
+        "equalContribution": false
+      }
+    ],
+    "journal": "Macromolecules, 58, 10526–10535, (2025)",
+    "year": 2025,
+    "type": "article",
+    "status": "published",
+    "order": 4,
+    "volume": null,
+    "pages": null,
+    "articleNumber": null,
+    "doi": null,
+    "url": null,
+    "pdf": null,
+    "featured": false,
+    "featuredOrder": 0,
+    "themeIds": []
+  },
+  {
+    "isPlaceholder": false,
+    "draft": false,
+    "updatedAt": "2026-10-27",
+    "id": "paper-24",
+    "title": "An Electrochemiluminescence Device Powered by Streaming Potential for the Detection of Amines in Flowing Solution",
+    "authors": [
+      {
+        "name": "Rintaro Suzuki",
+        "memberId": null,
+        "corresponding": false,
+        "equalContribution": false
+      },
+      {
+        "name": "Suguru Iwai",
+        "memberId": null,
+        "corresponding": false,
+        "equalContribution": false
+      },
+      {
+        "name": "Ryota Kirino",
+        "memberId": null,
+        "corresponding": false,
+        "equalContribution": false
+      },
+      {
+        "name": "Kosuke Sato",
+        "memberId": "pi",
+        "corresponding": false,
+        "equalContribution": false
+      },
+      {
+        "name": "Mariko Konishi",
+        "memberId": null,
+        "corresponding": false,
+        "equalContribution": false
+      },
+      {
+        "name": "George Hasegawa",
+        "memberId": null,
+        "corresponding": false,
+        "equalContribution": false
+      },
+      {
+        "name": "Norio Ishizuka",
+        "memberId": null,
+        "corresponding": false,
+        "equalContribution": false
+      },
+      {
+        "name": "Kimihiro Matsukawa",
+        "memberId": null,
+        "corresponding": false,
+        "equalContribution": false
+      },
+      {
+        "name": "Kazuo Tanaka",
+        "memberId": null,
+        "corresponding": false,
+        "equalContribution": false
+      },
+      {
+        "name": "Elena Villani",
+        "memberId": null,
+        "corresponding": true,
+        "equalContribution": false
+      },
+      {
+        "name": "Shinsuke Inagi",
+        "memberId": null,
+        "corresponding": false,
+        "equalContribution": false
+      }
+    ],
+    "journal": "Nature Communications, 16, 8217, (2025)",
+    "year": 2025,
+    "type": "article",
+    "status": "published",
+    "order": 5,
+    "volume": null,
+    "pages": null,
+    "articleNumber": null,
+    "doi": null,
+    "url": null,
+    "pdf": null,
+    "featured": false,
+    "featuredOrder": 0,
+    "themeIds": []
+  },
+  {
+    "isPlaceholder": false,
+    "draft": false,
+    "updatedAt": "2026-10-27",
+    "id": "paper-23",
+    "title": "Comprehensive Study of Shape of Channels Filled with Porous Materials in Streaming Potential Cells",
+    "authors": [
+      {
+        "name": "Ryota Kirino",
+        "memberId": null,
+        "corresponding": false,
+        "equalContribution": false
+      },
+      {
+        "name": "Suguru Iwai",
+        "memberId": null,
+        "corresponding": false,
+        "equalContribution": false
+      },
+      {
+        "name": "Kosuke Sato",
+        "memberId": "pi",
+        "corresponding": false,
+        "equalContribution": false
+      },
+      {
+        "name": "Elena Villani",
+        "memberId": null,
+        "corresponding": false,
+        "equalContribution": false
+      },
+      {
+        "name": "George Hasegawa",
+        "memberId": null,
+        "corresponding": false,
+        "equalContribution": false
+      },
+      {
+        "name": "Shinsuke Inagi",
+        "memberId": null,
+        "corresponding": true,
+        "equalContribution": false
+      }
+    ],
+    "journal": "Electrochemistry 93 (7), 077003-077003, (2025)",
+    "year": 2025,
+    "type": "article",
+    "status": "published",
+    "order": 6,
+    "volume": null,
+    "pages": null,
+    "articleNumber": null,
+    "doi": null,
+    "url": null,
+    "pdf": null,
+    "featured": false,
+    "featuredOrder": 0,
+    "themeIds": []
+  },
+  {
+    "isPlaceholder": false,
+    "draft": false,
+    "updatedAt": "2026-10-27",
+    "id": "paper-22",
+    "title": "Orthogonal Synthesis of Cationic Azatriphenylene Derivatives for Aggregation-Induced Emission (AIE) and Aggregation-Caused Quenching (ACQ) Property Switching",
+    "authors": [
+      {
+        "name": "Yushi Ohno",
+        "memberId": null,
+        "corresponding": false,
+        "equalContribution": false
+      },
+      {
+        "name": "Tsukasa Ehara",
+        "memberId": null,
+        "corresponding": false,
+        "equalContribution": false
+      },
+      {
+        "name": "Kosuke Sato",
+        "memberId": "pi",
+        "corresponding": false,
+        "equalContribution": false
+      },
+      {
+        "name": "Ryoyu Hifumi",
+        "memberId": null,
+        "corresponding": false,
+        "equalContribution": false
+      },
+      {
+        "name": "Ikuyoshi Tomita",
+        "memberId": null,
+        "corresponding": false,
+        "equalContribution": false
+      },
+      {
+        "name": "Shinsuke Inagi",
+        "memberId": null,
+        "corresponding": true,
+        "equalContribution": false
+      }
+    ],
+    "journal": "Organic Letters, 27 (19), 4964-4968, (2025)",
+    "year": 2025,
+    "type": "article",
+    "status": "published",
+    "order": 7,
+    "volume": null,
+    "pages": null,
+    "articleNumber": null,
+    "doi": null,
+    "url": null,
+    "pdf": null,
+    "featured": false,
+    "featuredOrder": 0,
+    "themeIds": []
+  },
+  {
+    "isPlaceholder": false,
+    "draft": false,
+    "updatedAt": "2026-10-27",
+    "id": "paper-21",
+    "title": "Organophotoredox-Catalyzed Postfunctionalization of Poly (methacrylate) Derivatives via Radical–Polar Crossover Phosphonylation",
+    "authors": [
+      {
+        "name": "Tomohiro Tamano",
+        "memberId": null,
+        "corresponding": false,
+        "equalContribution": false
+      },
+      {
+        "name": "Kosuke Sato",
+        "memberId": "pi",
+        "corresponding": false,
+        "equalContribution": false
+      },
+      {
+        "name": "Hirohisa Ohmiya",
+        "memberId": null,
+        "corresponding": false,
+        "equalContribution": false
+      },
+      {
+        "name": "Shinsuke Inagi",
+        "memberId": null,
+        "corresponding": true,
+        "equalContribution": false
+      }
+    ],
+    "journal": "Angewandte Chemie International Edition, e202507572, (2025)",
+    "year": 2025,
+    "type": "article",
+    "status": "published",
+    "order": 8,
+    "volume": null,
+    "pages": null,
+    "articleNumber": null,
+    "doi": null,
+    "url": null,
+    "pdf": null,
+    "featured": false,
+    "featuredOrder": 0,
+    "themeIds": []
+  },
+  {
+    "isPlaceholder": false,
+    "draft": false,
+    "updatedAt": "2026-10-27",
+    "id": "paper-20",
+    "title": "Effective Porous Filler Design for Streaming Potential‐Driven Electropolymerization",
+    "authors": [
+      {
+        "name": "Suguru Iwai",
+        "memberId": null,
+        "corresponding": false,
+        "equalContribution": false
+      },
+      {
+        "name": "Ryota Kirino",
+        "memberId": null,
+        "corresponding": false,
+        "equalContribution": false
+      },
+      {
+        "name": "Elena Villani",
+        "memberId": null,
+        "corresponding": false,
+        "equalContribution": false
+      },
+      {
+        "name": "Kosuke Sato",
+        "memberId": "pi",
+        "corresponding": false,
+        "equalContribution": false
+      },
+      {
+        "name": "George Hasegawa",
+        "memberId": null,
+        "corresponding": false,
+        "equalContribution": false
+      },
+      {
+        "name": "Norio Ishizuka",
+        "memberId": null,
+        "corresponding": false,
+        "equalContribution": false
+      },
+      {
+        "name": "Kimihiro Matsukawa",
+        "memberId": null,
+        "corresponding": false,
+        "equalContribution": false
+      },
+      {
+        "name": "Ikuyoshi Tomita",
+        "memberId": null,
+        "corresponding": false,
+        "equalContribution": false
+      },
+      {
+        "name": "Shinsuke Inagi",
+        "memberId": null,
+        "corresponding": true,
+        "equalContribution": false
+      }
+    ],
+    "journal": "ChemElectroChem, 2500181, (2025)",
+    "year": 2025,
+    "type": "article",
+    "status": "published",
+    "order": 9,
+    "volume": null,
+    "pages": null,
+    "articleNumber": null,
+    "doi": null,
+    "url": null,
+    "pdf": null,
+    "featured": false,
+    "featuredOrder": 0,
+    "themeIds": []
+  },
+  {
+    "isPlaceholder": false,
+    "draft": false,
+    "updatedAt": "2026-10-27",
+    "id": "paper-19",
+    "title": "Superhydrophobic Thin Film of Imine-Linked Covalent Organic Networks Obtained via Cascaded Electrochemical Activation and Phase Separation for Water Repellent Surface",
+    "authors": [
+      {
+        "name": "Kosuke Sato",
+        "memberId": "pi",
+        "corresponding": true,
+        "equalContribution": false
+      },
+      {
+        "name": "Kento Imamura",
+        "memberId": null,
+        "corresponding": false,
+        "equalContribution": false
+      },
+      {
+        "name": "Shinsuke Inagi",
+        "memberId": null,
+        "corresponding": true,
+        "equalContribution": false
+      }
+    ],
+    "journal": "ACS Applied Nano Materials, 8, (19), 9832-9840, (2025)",
+    "year": 2025,
+    "type": "article",
+    "status": "published",
+    "order": 10,
+    "volume": null,
+    "pages": null,
+    "articleNumber": null,
+    "doi": null,
+    "url": null,
+    "pdf": null,
+    "featured": false,
+    "featuredOrder": 0,
+    "themeIds": [
+      "theme-01"
+    ]
+  },
+  {
+    "isPlaceholder": false,
+    "draft": false,
+    "updatedAt": "2026-10-27",
+    "id": "paper-18",
+    "title": "Electrochemically Controlled Deposition of Low‐Crystalline Covalent Organic Frameworks on Nanocarbon Electrode Toward Metal-Free Oxygen Reduction Electrocatalyst",
+    "authors": [
+      {
+        "name": "Kosuke Sato",
+        "memberId": "pi",
+        "corresponding": true,
+        "equalContribution": false
+      },
+      {
+        "name": "Shinsuke Inagi",
+        "memberId": null,
+        "corresponding": true,
+        "equalContribution": false
+      }
+    ],
+    "journal": "Small, 21 (6), 2410475, (2025)",
+    "year": 2025,
+    "type": "article",
+    "status": "published",
+    "order": 11,
+    "volume": null,
+    "pages": null,
+    "articleNumber": null,
+    "doi": null,
+    "url": null,
+    "pdf": null,
+    "featured": false,
+    "featuredOrder": 0,
+    "themeIds": [
+      "theme-02"
+    ]
+  },
+  {
+    "isPlaceholder": false,
+    "draft": false,
+    "updatedAt": "2026-10-27",
+    "id": "paper-17",
+    "title": "Electrochemical Postfunctionalization of Thiophene–Fluorene Alternating Copolymers via Anodic C–H Phosphonylation",
+    "authors": [
+      {
+        "name": "Kohei Taniguchi",
+        "memberId": null,
+        "corresponding": false,
+        "equalContribution": false
+      },
+      {
+        "name": "Tomoyuki Kurioka",
+        "memberId": null,
+        "corresponding": false,
+        "equalContribution": false
+      },
+      {
+        "name": "Kosuke Sato",
+        "memberId": "pi",
+        "corresponding": true,
+        "equalContribution": false
+      },
+      {
+        "name": "Ikuyoshi Tomita",
+        "memberId": null,
+        "corresponding": false,
+        "equalContribution": false
+      },
+      {
+        "name": "Shinsuke Inagi",
+        "memberId": null,
+        "corresponding": false,
+        "equalContribution": false
+      }
+    ],
+    "journal": "Macromolecules, 57, (10), 5028-5037 (2024)",
+    "year": 2024,
+    "type": "article",
+    "status": "published",
+    "order": 12,
+    "volume": null,
+    "pages": null,
+    "articleNumber": null,
+    "doi": null,
+    "url": null,
+    "pdf": null,
+    "featured": false,
+    "featuredOrder": 0,
+    "themeIds": []
+  },
+  {
+    "isPlaceholder": false,
+    "draft": false,
+    "updatedAt": "2026-10-27",
+    "id": "paper-16",
+    "title": "A materials informatics driven fine-tuning of triazine-based electron-transport layer for organic light-emitting devices",
+    "authors": [
+      {
+        "name": "Kosuke Sato",
+        "memberId": "pi",
+        "corresponding": true,
+        "equalContribution": false
+      },
+      {
+        "name": "Kazuki Hattori",
+        "memberId": null,
+        "corresponding": false,
+        "equalContribution": false
+      },
+      {
+        "name": "Fuminari Uehara",
+        "memberId": null,
+        "corresponding": false,
+        "equalContribution": false
+      },
+      {
+        "name": "Tomoko Kitaguni",
+        "memberId": null,
+        "corresponding": false,
+        "equalContribution": false
+      },
+      {
+        "name": "Toshiki Nishiura",
+        "memberId": null,
+        "corresponding": false,
+        "equalContribution": false
+      },
+      {
+        "name": "Takuya Yamagata",
+        "memberId": null,
+        "corresponding": false,
+        "equalContribution": false
+      },
+      {
+        "name": "Keisuke Nomura",
+        "memberId": null,
+        "corresponding": false,
+        "equalContribution": false
+      },
+      {
+        "name": "Naoki Matsumoto",
+        "memberId": null,
+        "corresponding": false,
+        "equalContribution": false
+      },
+      {
+        "name": "Tsuyoshi Tanaka",
+        "memberId": null,
+        "corresponding": false,
+        "equalContribution": false
+      },
+      {
+        "name": "Hidenori Aihara",
+        "memberId": null,
+        "corresponding": false,
+        "equalContribution": false
+      }
+    ],
+    "journal": "Scientific Reports, 14, (1), 4336, (2024)",
+    "year": 2024,
+    "type": "article",
+    "status": "published",
+    "order": 13,
+    "volume": null,
+    "pages": null,
+    "articleNumber": null,
+    "doi": null,
+    "url": null,
+    "pdf": null,
+    "featured": true,
+    "featuredOrder": 3,
+    "themeIds": [
+      "theme-03"
+    ]
+  },
+  {
+    "isPlaceholder": false,
+    "draft": false,
+    "updatedAt": "2026-10-27",
+    "id": "paper-15",
+    "title": "Site-selective synthesis and concurrent immobilization of imine‐based covalent organic frameworks on electrodes using an electrogenerated acid",
+    "authors": [
+      {
+        "name": "Tomoki Shirokura",
+        "memberId": null,
+        "corresponding": false,
+        "equalContribution": false
+      },
+      {
+        "name": "Tomoki Hirohata",
+        "memberId": null,
+        "corresponding": false,
+        "equalContribution": false
+      },
+      {
+        "name": "Kosuke Sato",
+        "memberId": "pi",
+        "corresponding": false,
+        "equalContribution": false
+      },
+      {
+        "name": "Elena Villani",
+        "memberId": null,
+        "corresponding": false,
+        "equalContribution": false
+      },
+      {
+        "name": "Kazuyasu Sekiya",
+        "memberId": null,
+        "corresponding": false,
+        "equalContribution": false
+      },
+      {
+        "name": "Yu‐An Chien",
+        "memberId": null,
+        "corresponding": false,
+        "equalContribution": false
+      },
+      {
+        "name": "Tomoyuki Kurioka",
+        "memberId": null,
+        "corresponding": false,
+        "equalContribution": false
+      },
+      {
+        "name": "Ryoyu Hifumi",
+        "memberId": null,
+        "corresponding": false,
+        "equalContribution": false
+      },
+      {
+        "name": "Yoshiyuki Hattori",
+        "memberId": null,
+        "corresponding": false,
+        "equalContribution": false
+      },
+      {
+        "name": "Masato Sone",
+        "memberId": null,
+        "corresponding": false,
+        "equalContribution": false
+      },
+      {
+        "name": "Ikuyoshi Tomita",
+        "memberId": null,
+        "corresponding": false,
+        "equalContribution": false
+      },
+      {
+        "name": "Shinsuke Inagi",
+        "memberId": null,
+        "corresponding": true,
+        "equalContribution": false
+      }
+    ],
+    "journal": "Angewandte Chemie International Edition, 135, (40), e202307343, (2023)",
+    "year": 2023,
+    "type": "article",
+    "status": "published",
+    "order": 14,
+    "volume": null,
+    "pages": null,
+    "articleNumber": null,
+    "doi": null,
+    "url": null,
+    "pdf": null,
+    "featured": false,
+    "featuredOrder": 0,
+    "themeIds": [
+      "theme-01"
+    ]
+  },
+  {
+    "isPlaceholder": false,
+    "draft": false,
+    "updatedAt": "2026-10-27",
+    "id": "paper-14",
+    "title": "Thienylene combined with pyridylene through planar triazine networks for applications as organic oxygen reduction reaction electrocatalysts",
+    "authors": [
+      {
+        "name": "Kosuke Sato",
+        "memberId": "pi",
+        "corresponding": true,
+        "equalContribution": false
+      },
+      {
+        "name": "Nodoka Osada",
+        "memberId": null,
+        "corresponding": false,
+        "equalContribution": false
+      },
+      {
+        "name": "Hidenori Aihara",
+        "memberId": null,
+        "corresponding": false,
+        "equalContribution": false
+      }
+    ],
+    "journal": "RSC advances, 13, (17), 11794-11799, (2023)",
+    "year": 2023,
+    "type": "article",
+    "status": "published",
+    "order": 15,
+    "volume": null,
+    "pages": null,
+    "articleNumber": null,
+    "doi": null,
+    "url": null,
+    "pdf": null,
+    "featured": false,
+    "featuredOrder": 0,
+    "themeIds": [
+      "theme-02"
+    ]
+  },
+  {
+    "isPlaceholder": false,
+    "draft": false,
+    "updatedAt": "2026-10-27",
+    "id": "paper-13",
+    "title": "Amorphous flexible covalent organic networks containing redox-active moieties: a noncrystalline approach to the assembly of functional molecules",
+    "authors": [
+      {
+        "name": "Junpei Suzuki",
+        "memberId": null,
+        "corresponding": false,
+        "equalContribution": false
+      },
+      {
+        "name": "Akira Ishizone",
+        "memberId": null,
+        "corresponding": false,
+        "equalContribution": false
+      },
+      {
+        "name": "Kosuke Sato",
+        "memberId": "pi",
+        "corresponding": false,
+        "equalContribution": false
+      },
+      {
+        "name": "H. Imai",
+        "memberId": null,
+        "corresponding": false,
+        "equalContribution": false
+      },
+      {
+        "name": "Yu Jen Tseng",
+        "memberId": null,
+        "corresponding": false,
+        "equalContribution": false
+      },
+      {
+        "name": "Chi How Peng",
+        "memberId": null,
+        "corresponding": false,
+        "equalContribution": false
+      },
+      {
+        "name": "Y. Oaki",
+        "memberId": null,
+        "corresponding": true,
+        "equalContribution": false
+      }
+    ],
+    "journal": "Chemical Science, 11, 7003–7008 (2020)",
+    "year": 2020,
+    "type": "article",
+    "status": "published",
+    "order": 16,
+    "volume": null,
+    "pages": null,
+    "articleNumber": null,
+    "doi": null,
+    "url": null,
+    "pdf": null,
+    "featured": false,
+    "featuredOrder": 0,
+    "themeIds": [
+      "theme-02"
+    ]
+  },
+  {
+    "isPlaceholder": false,
+    "draft": false,
+    "updatedAt": "2026-10-27",
+    "id": "paper-12",
+    "title": "Experiment-Oriented Materials Informatics for Efficient Exploration of Design Strategy and New Compounds for High-Performance Organic Anode",
+    "authors": [
+      {
+        "name": "Hiromichi Numazawa",
+        "memberId": null,
+        "corresponding": false,
+        "equalContribution": false
+      },
+      {
+        "name": "Yasuhiko Igarashi",
+        "memberId": null,
+        "corresponding": false,
+        "equalContribution": false
+      },
+      {
+        "name": "Kosuke Sato",
+        "memberId": "pi",
+        "corresponding": false,
+        "equalContribution": false
+      },
+      {
+        "name": "Hiroaki Imai",
+        "memberId": null,
+        "corresponding": false,
+        "equalContribution": false
+      },
+      {
+        "name": "Yuya Oaki",
+        "memberId": null,
+        "corresponding": true,
+        "equalContribution": false
+      }
+    ],
+    "journal": "Advanced Theory and Simulations, 2(10), 1900130 (2019)",
+    "year": 2019,
+    "type": "article",
+    "status": "published",
+    "order": 17,
+    "volume": null,
+    "pages": null,
+    "articleNumber": null,
+    "doi": null,
+    "url": null,
+    "pdf": null,
+    "featured": false,
+    "featuredOrder": 0,
+    "themeIds": [
+      "theme-03"
+    ]
+  },
+  {
+    "isPlaceholder": false,
+    "draft": false,
+    "updatedAt": "2026-10-27",
+    "id": "paper-11",
+    "title": "Highly Porous Polymer Dendrites of Pyrrole Derivatives Synthesized through Rapid Oxidative Polymerization",
+    "authors": [
+      {
+        "name": "Kanji Ishii",
+        "memberId": null,
+        "corresponding": false,
+        "equalContribution": false
+      },
+      {
+        "name": "Kosuke Sato",
+        "memberId": "pi",
+        "corresponding": false,
+        "equalContribution": false
+      },
+      {
+        "name": "Yuya Oaki",
+        "memberId": null,
+        "corresponding": false,
+        "equalContribution": false
+      },
+      {
+        "name": "Hiroaki Imai",
+        "memberId": null,
+        "corresponding": true,
+        "equalContribution": false
+      }
+    ],
+    "journal": "Polymer Journal, 51(1), 11–18 (2019)",
+    "year": 2019,
+    "type": "article",
+    "status": "published",
+    "order": 18,
+    "volume": null,
+    "pages": null,
+    "articleNumber": null,
+    "doi": null,
+    "url": null,
+    "pdf": null,
+    "featured": false,
+    "featuredOrder": 0,
+    "themeIds": []
+  },
+  {
+    "isPlaceholder": false,
+    "draft": false,
+    "updatedAt": "2026-10-27",
+    "id": "paper-10",
+    "title": "Amorphous 2D Materials Containing a Conjugated-Polymer Network",
+    "authors": [
+      {
+        "name": "Shoichiro Yano",
+        "memberId": null,
+        "corresponding": false,
+        "equalContribution": false
+      },
+      {
+        "name": "Kosuke Sato",
+        "memberId": "pi",
+        "corresponding": false,
+        "equalContribution": false
+      },
+      {
+        "name": "Junpei Suzuki",
+        "memberId": null,
+        "corresponding": false,
+        "equalContribution": false
+      },
+      {
+        "name": "Hiroaki Imai",
+        "memberId": null,
+        "corresponding": false,
+        "equalContribution": false
+      },
+      {
+        "name": "Yuya Oaki",
+        "memberId": null,
+        "corresponding": true,
+        "equalContribution": false
+      }
+    ],
+    "journal": "Communications Chemistry, 2(1), 97 (2019)",
+    "year": 2019,
+    "type": "article",
+    "status": "published",
+    "order": 19,
+    "volume": null,
+    "pages": null,
+    "articleNumber": null,
+    "doi": null,
+    "url": null,
+    "pdf": null,
+    "featured": false,
+    "featuredOrder": 0,
+    "themeIds": [
+      "theme-01"
+    ]
+  },
+  {
+    "isPlaceholder": false,
+    "draft": false,
+    "updatedAt": "2026-10-27",
+    "id": "paper-9",
+    "title": "Two-Dimensional Conductive and Redox-Active Nanostructures Synthesized by Crystal-Controlled Polymerization for Electrochemical Applications",
+    "authors": [
+      {
+        "name": "Kosuke Sato",
+        "memberId": "pi",
+        "corresponding": false,
+        "equalContribution": false
+      },
+      {
+        "name": "Hiroaki Imai",
+        "memberId": null,
+        "corresponding": false,
+        "equalContribution": false
+      },
+      {
+        "name": "Yuya Oaki",
+        "memberId": null,
+        "corresponding": true,
+        "equalContribution": false
+      }
+    ],
+    "journal": "ACS Applied Nano Materials, 1(8), 4218–4226 (2018)",
+    "year": 2018,
+    "type": "article",
+    "status": "published",
+    "order": 20,
+    "volume": null,
+    "pages": null,
+    "articleNumber": null,
+    "doi": null,
+    "url": null,
+    "pdf": null,
+    "featured": false,
+    "featuredOrder": 0,
+    "themeIds": []
+  },
+  {
+    "isPlaceholder": false,
+    "draft": false,
+    "updatedAt": "2026-10-27",
+    "id": "paper-8",
+    "title": "Multistage redox reaction of conductive-polymer nanostructures with lithium ion: Potentials for high-performance organic anode",
+    "authors": [
+      {
+        "name": "Hiromichi Numazawa",
+        "memberId": null,
+        "corresponding": false,
+        "equalContribution": false
+      },
+      {
+        "name": "Kosuke Sato",
+        "memberId": "pi",
+        "corresponding": false,
+        "equalContribution": false
+      },
+      {
+        "name": "Hiroaki Imai",
+        "memberId": null,
+        "corresponding": false,
+        "equalContribution": false
+      },
+      {
+        "name": "Yuya Oaki",
+        "memberId": null,
+        "corresponding": true,
+        "equalContribution": false
+      }
+    ],
+    "journal": "NPG Asia materials, 10, 397–405 (2018)",
+    "year": 2018,
+    "type": "article",
+    "status": "published",
+    "order": 21,
+    "volume": null,
+    "pages": null,
+    "articleNumber": null,
+    "doi": null,
+    "url": null,
+    "pdf": null,
+    "featured": false,
+    "featuredOrder": 0,
+    "themeIds": []
+  },
+  {
+    "isPlaceholder": false,
+    "draft": false,
+    "updatedAt": "2026-10-27",
+    "id": "paper-7",
+    "title": "Hierarchical bicontinuous structure of redox-active organic composites and their enhanced electrochemical properties",
+    "authors": [
+      {
+        "name": "Kosuke Sato",
+        "memberId": "pi",
+        "corresponding": false,
+        "equalContribution": false
+      },
+      {
+        "name": "Mirei Arayasu",
+        "memberId": null,
+        "corresponding": false,
+        "equalContribution": false
+      },
+      {
+        "name": "Hirotaka Masaki",
+        "memberId": null,
+        "corresponding": false,
+        "equalContribution": false
+      },
+      {
+        "name": "Hiroaki Imai",
+        "memberId": null,
+        "corresponding": false,
+        "equalContribution": false
+      },
+      {
+        "name": "Yuya Oaki",
+        "memberId": null,
+        "corresponding": true,
+        "equalContribution": false
+      }
+    ],
+    "journal": "Chemical Communications, 53, 7329–7332 (2017)",
+    "year": 2017,
+    "type": "article",
+    "status": "published",
+    "order": 22,
+    "volume": null,
+    "pages": null,
+    "articleNumber": null,
+    "doi": null,
+    "url": null,
+    "pdf": null,
+    "featured": false,
+    "featuredOrder": 0,
+    "themeIds": []
+  },
+  {
+    "isPlaceholder": false,
+    "draft": false,
+    "updatedAt": "2026-10-27",
+    "id": "paper-6",
+    "title": "Phase separation of composite materials through simultaneous polymerization and crystallization",
+    "authors": [
+      {
+        "name": "Kosuke Sato",
+        "memberId": "pi",
+        "corresponding": false,
+        "equalContribution": false
+      },
+      {
+        "name": "Hiroaki Imai",
+        "memberId": null,
+        "corresponding": false,
+        "equalContribution": false
+      },
+      {
+        "name": "Yuya Oaki",
+        "memberId": null,
+        "corresponding": true,
+        "equalContribution": false
+      }
+    ],
+    "journal": "NPG asia materials, 9, e377 (2017)",
+    "year": 2017,
+    "type": "article",
+    "status": "published",
+    "order": 23,
+    "volume": null,
+    "pages": null,
+    "articleNumber": null,
+    "doi": null,
+    "url": null,
+    "pdf": null,
+    "featured": false,
+    "featuredOrder": 0,
+    "themeIds": []
+  },
+  {
+    "isPlaceholder": false,
+    "draft": false,
+    "updatedAt": "2026-10-27",
+    "id": "paper-5",
+    "title": "Conductive Polymer Nanosheet generated from Organic Oxidant Crystal",
+    "authors": [
+      {
+        "name": "Kosuke Sato",
+        "memberId": "pi",
+        "corresponding": false,
+        "equalContribution": false
+      },
+      {
+        "name": "Hirotaka Masaki",
+        "memberId": null,
+        "corresponding": false,
+        "equalContribution": false
+      },
+      {
+        "name": "Mirei Arayasu",
+        "memberId": null,
+        "corresponding": false,
+        "equalContribution": false
+      },
+      {
+        "name": "Yuya Oaki",
+        "memberId": null,
+        "corresponding": true,
+        "equalContribution": false
+      },
+      {
+        "name": "Hiroaki Imai",
+        "memberId": null,
+        "corresponding": false,
+        "equalContribution": false
+      }
+    ],
+    "journal": "ChemPlusChem, 82(2), 177–180 (2016) (inside back coverに採択)",
+    "year": 2016,
+    "type": "article",
+    "status": "published",
+    "order": 24,
+    "volume": null,
+    "pages": null,
+    "articleNumber": null,
+    "doi": null,
+    "url": null,
+    "pdf": null,
+    "featured": false,
+    "featuredOrder": 0,
+    "themeIds": []
+  },
+  {
+    "isPlaceholder": false,
+    "draft": false,
+    "updatedAt": "2026-10-27",
+    "id": "paper-4",
+    "title": "Incorporation of Redox-active Guest in Conductive and Redox-active Host: Hierarchically Structured Composite of a Conductive Polymer and Quinone Derivative",
+    "authors": [
+      {
+        "name": "Kosuke Sato",
+        "memberId": "pi",
+        "corresponding": false,
+        "equalContribution": false
+      },
+      {
+        "name": "Yuya Oaki",
+        "memberId": null,
+        "corresponding": true,
+        "equalContribution": false
+      },
+      {
+        "name": "Hiroaki Imai",
+        "memberId": null,
+        "corresponding": false,
+        "equalContribution": false
+      }
+    ],
+    "journal": "Chemistry Letters, 45(3), 324-326 (2016)",
+    "year": 2016,
+    "type": "article",
+    "status": "published",
+    "order": 25,
+    "volume": null,
+    "pages": null,
+    "articleNumber": null,
+    "doi": null,
+    "url": null,
+    "pdf": null,
+    "featured": false,
+    "featuredOrder": 0,
+    "themeIds": []
+  },
+  {
+    "isPlaceholder": false,
+    "draft": false,
+    "updatedAt": "2026-10-27",
+    "id": "paper-3",
+    "title": "A hydrophobic adsorbent based on hierarchical porous polymers derived from morphologies of a biomineral",
+    "authors": [
+      {
+        "name": "Kosuke Sato",
+        "memberId": "pi",
+        "corresponding": false,
+        "equalContribution": false
+      },
+      {
+        "name": "Yuya Oaki",
+        "memberId": null,
+        "corresponding": true,
+        "equalContribution": false
+      },
+      {
+        "name": "Hiroaki Imai",
+        "memberId": null,
+        "corresponding": false,
+        "equalContribution": false
+      }
+    ],
+    "journal": "Chemical Communications, 51, 7919-7922 (2015)",
+    "year": 2015,
+    "type": "article",
+    "status": "published",
+    "order": 26,
+    "volume": null,
+    "pages": null,
+    "articleNumber": null,
+    "doi": null,
+    "url": null,
+    "pdf": null,
+    "featured": false,
+    "featuredOrder": 0,
+    "themeIds": []
+  },
+  {
+    "isPlaceholder": false,
+    "draft": false,
+    "updatedAt": "2026-10-27",
+    "id": "paper-2",
+    "title": "Hierarchical CaCO3 chromatography: a stationary phase based on biominerals",
+    "authors": [
+      {
+        "name": "Kosuke Sato",
+        "memberId": "pi",
+        "corresponding": false,
+        "equalContribution": false
+      },
+      {
+        "name": "Yuya Oaki",
+        "memberId": null,
+        "corresponding": true,
+        "equalContribution": false
+      },
+      {
+        "name": "Daisuke Takahashi",
+        "memberId": null,
+        "corresponding": false,
+        "equalContribution": false
+      },
+      {
+        "name": "Kazunobu Toshima",
+        "memberId": null,
+        "corresponding": false,
+        "equalContribution": false
+      },
+      {
+        "name": "Hiroaki Imai",
+        "memberId": null,
+        "corresponding": false,
+        "equalContribution": false
+      }
+    ],
+    "journal": "Chemistry – A European Journal, 21, 5034-5040 (2015)",
+    "year": 2015,
+    "type": "article",
+    "status": "published",
+    "order": 27,
+    "volume": null,
+    "pages": null,
+    "articleNumber": null,
+    "doi": null,
+    "url": null,
+    "pdf": null,
+    "featured": false,
+    "featuredOrder": 0,
+    "themeIds": []
+  },
+  {
+    "isPlaceholder": false,
+    "draft": false,
+    "updatedAt": "2026-10-27",
+    "id": "paper-1",
+    "title": "Incorporation of organic crystals in the interspace of oriented nanocrystals: morphologies and properties",
+    "authors": [
+      {
+        "name": "Yurika Munekawa",
+        "memberId": null,
+        "corresponding": false,
+        "equalContribution": false
+      },
+      {
+        "name": "Yuya Oaki",
+        "memberId": null,
+        "corresponding": true,
+        "equalContribution": false
+      },
+      {
+        "name": "Kosuke Sato",
+        "memberId": "pi",
+        "corresponding": false,
+        "equalContribution": false
+      },
+      {
+        "name": "Hiroaki Imai",
+        "memberId": null,
+        "corresponding": false,
+        "equalContribution": false
+      }
+    ],
+    "journal": "Nanoscale, 7, 3466-3473 (2015) (coverに採択)",
+    "year": 2015,
+    "type": "article",
+    "status": "published",
+    "order": 28,
+    "volume": null,
+    "pages": null,
+    "articleNumber": null,
+    "doi": null,
+    "url": null,
+    "pdf": null,
+    "featured": false,
+    "featuredOrder": 0,
+    "themeIds": []
+  },
+  {
+    "isPlaceholder": false,
+    "draft": false,
+    "updatedAt": "2026-10-27",
+    "id": "review-1",
+    "title": "Electrochemical Postfunctionalization of Polymers: Versatile Strategies for Macromolecular Transformation",
+    "authors": [
+      {
+        "name": "Kohei Taniguchi",
+        "memberId": null,
+        "corresponding": false,
+        "equalContribution": false
+      },
+      {
+        "name": "Kosuke Sato",
+        "memberId": "pi",
+        "corresponding": false,
+        "equalContribution": false
+      },
+      {
+        "name": "Shinsuke Inagi",
+        "memberId": null,
+        "corresponding": true,
+        "equalContribution": false
+      }
+    ],
+    "journal": "Accounts of Chemical Research, 2026, 59, 2935-2947.",
+    "year": 2026,
+    "type": "review",
+    "status": "published",
+    "order": 1,
+    "volume": null,
+    "pages": null,
+    "articleNumber": null,
+    "doi": null,
+    "url": null,
+    "pdf": null,
+    "featured": false,
+    "featuredOrder": 0,
+    "themeIds": []
+  },
+  {
+    "isPlaceholder": false,
+    "draft": false,
+    "updatedAt": "2026-10-27",
+    "id": "review-2",
+    "title": "Electrochemical Aromatic C–H Pyridination: A Facile Route to N-Aryl Pyridinium Salts",
+    "authors": [
+      {
+        "name": "Yushi Ohno",
+        "memberId": null,
+        "corresponding": false,
+        "equalContribution": false
+      },
+      {
+        "name": "Kosuke Sato",
+        "memberId": "pi",
+        "corresponding": false,
+        "equalContribution": false
+      },
+      {
+        "name": "Shinsuke Inagi",
+        "memberId": null,
+        "corresponding": true,
+        "equalContribution": false
+      }
+    ],
+    "journal": "Current Opinion in Electrochemistry, 58, 101867, (2026)",
+    "year": 2026,
+    "type": "review",
+    "status": "published",
+    "order": 2,
+    "volume": null,
+    "pages": null,
+    "articleNumber": null,
+    "doi": null,
+    "url": null,
+    "pdf": null,
+    "featured": false,
+    "featuredOrder": 0,
+    "themeIds": []
+  },
+  {
+    "isPlaceholder": false,
+    "draft": false,
+    "updatedAt": "2026-10-27",
+    "id": "review-3",
+    "title": "Electrochemically Controlled Interface Synthesis and Applications of Imine-bonded Covalent Organic Framework Films",
+    "authors": [
+      {
+        "name": "Kosuke Sato",
+        "memberId": "pi",
+        "corresponding": true,
+        "equalContribution": false
+      },
+      {
+        "name": "Kento Imamura",
+        "memberId": null,
+        "corresponding": false,
+        "equalContribution": false
+      },
+      {
+        "name": "Shinsuke Inagi",
+        "memberId": null,
+        "corresponding": false,
+        "equalContribution": false
+      }
+    ],
+    "journal": "Chemistry Letters, 55, upag037, (2026)",
+    "year": 2026,
+    "type": "review",
+    "status": "published",
+    "order": 3,
+    "volume": null,
+    "pages": null,
+    "articleNumber": null,
+    "doi": null,
+    "url": null,
+    "pdf": null,
+    "featured": false,
+    "featuredOrder": 0,
+    "themeIds": []
+  },
+  {
+    "isPlaceholder": false,
+    "draft": false,
+    "updatedAt": "2026-10-27",
+    "id": "review-4",
+    "title": "Amorphous conjugated polymer networks as an emerging class of polymer nanostructures",
+    "authors": [
+      {
+        "name": "Yuya Oaki",
+        "memberId": null,
+        "corresponding": true,
+        "equalContribution": false
+      },
+      {
+        "name": "Kosuke Sato",
+        "memberId": "pi",
+        "corresponding": false,
+        "equalContribution": false
+      }
+    ],
+    "journal": "RSC Applied Polymers, 3 (1), 78-91, (2025)",
+    "year": 2025,
+    "type": "review",
+    "status": "published",
+    "order": 4,
+    "volume": null,
+    "pages": null,
+    "articleNumber": null,
+    "doi": null,
+    "url": null,
+    "pdf": null,
+    "featured": false,
+    "featuredOrder": 0,
+    "themeIds": []
+  },
+  {
+    "isPlaceholder": false,
+    "draft": false,
+    "updatedAt": "2026-10-27",
+    "id": "review-5",
+    "title": "Nanoarchitectonics for conductive polymers using solid and vapor phases",
+    "authors": [
+      {
+        "name": "Yuya Oaki",
+        "memberId": null,
+        "corresponding": true,
+        "equalContribution": false
+      },
+      {
+        "name": "Kosuke Sato",
+        "memberId": "pi",
+        "corresponding": false,
+        "equalContribution": false
+      }
+    ],
+    "journal": "Nanoscale Advances, 4, 2773-2781, (2022)",
+    "year": 2022,
+    "type": "review",
+    "status": "published",
+    "order": 5,
+    "volume": null,
+    "pages": null,
+    "articleNumber": null,
+    "doi": null,
+    "url": null,
+    "pdf": null,
+    "featured": false,
+    "featuredOrder": 0,
+    "themeIds": []
+  },
+  {
+    "isPlaceholder": false,
+    "draft": false,
+    "updatedAt": "2026-10-27",
+    "id": "review-6",
+    "title": "Crystal-Controlled Polymerization: Recent Advances in Morphology Design and Control of Organic Polymer Materials",
+    "authors": [
+      {
+        "name": "Yuya Oaki",
+        "memberId": null,
+        "corresponding": true,
+        "equalContribution": false
+      },
+      {
+        "name": "Kosuke Sato",
+        "memberId": "pi",
+        "corresponding": false,
+        "equalContribution": false
+      }
+    ],
+    "journal": "Journal of Materials Chemistry A, 6 (46), 23197–23219, (2018)",
+    "year": 2018,
+    "type": "review",
+    "status": "published",
+    "order": 6,
+    "volume": null,
+    "pages": null,
+    "articleNumber": null,
+    "doi": null,
+    "url": null,
+    "pdf": null,
+    "featured": false,
+    "featuredOrder": 0,
+    "themeIds": []
+  },
+  {
+    "isPlaceholder": false,
+    "draft": false,
+    "updatedAt": "2026-10-27",
+    "id": "review-7",
+    "title": "イミン系COFの電気化学的合成および電極上への薄膜形成手法の開発",
+    "authors": [
+      {
+        "name": "佐藤宏亮",
+        "memberId": "pi",
+        "corresponding": false,
+        "equalContribution": false
+      },
+      {
+        "name": "稲木信介",
+        "memberId": null,
+        "corresponding": false,
+        "equalContribution": false
+      }
+    ],
+    "journal": "月刊ファインケミカル,54 (6), 50-57, (2025)",
+    "year": 2025,
+    "type": "review",
+    "status": "published",
+    "order": 7,
+    "volume": null,
+    "pages": null,
+    "articleNumber": null,
+    "doi": null,
+    "url": null,
+    "pdf": null,
+    "featured": false,
+    "featuredOrder": 0,
+    "themeIds": []
+  },
+  {
+    "isPlaceholder": false,
+    "draft": false,
+    "updatedAt": "2026-10-27",
+    "id": "review-8",
+    "title": "電解発生酸を利用したイミン系共有結合性有機構造体の制御合成と応用",
+    "authors": [
+      {
+        "name": "佐藤宏亮",
+        "memberId": "pi",
+        "corresponding": false,
+        "equalContribution": false
+      },
+      {
+        "name": "稲木信介",
+        "memberId": null,
+        "corresponding": false,
+        "equalContribution": false
+      }
+    ],
+    "journal": "ゼオライト,42 (2), 54-62, (2025)",
+    "year": 2025,
+    "type": "review",
+    "status": "published",
+    "order": 8,
+    "volume": null,
+    "pages": null,
+    "articleNumber": null,
+    "doi": null,
+    "url": null,
+    "pdf": null,
+    "featured": false,
+    "featuredOrder": 0,
+    "themeIds": []
+  },
+  {
+    "isPlaceholder": false,
+    "draft": false,
+    "updatedAt": "2026-10-27",
+    "id": "patent-1",
+    "title": "重合触媒及びそれを用いてなるエチレン系重合体の製造方法",
+    "authors": [
+      {
+        "name": "長谷川彩樹",
+        "memberId": null,
+        "corresponding": false,
+        "equalContribution": false
+      },
+      {
+        "name": "桑原唯菜",
+        "memberId": null,
+        "corresponding": false,
+        "equalContribution": false
+      },
+      {
+        "name": "若林保武",
+        "memberId": null,
+        "corresponding": false,
+        "equalContribution": false
+      },
+      {
+        "name": "多田賢一",
+        "memberId": null,
+        "corresponding": false,
+        "equalContribution": false
+      },
+      {
+        "name": "脇岡正幸",
+        "memberId": null,
+        "corresponding": false,
+        "equalContribution": false
+      },
+      {
+        "name": "佐藤宏亮",
+        "memberId": "pi",
+        "corresponding": false,
+        "equalContribution": false
+      }
+    ],
+    "journal": "特願2024-76881",
+    "year": 2024,
+    "type": "patent",
+    "status": "patent-application",
+    "order": 1,
+    "volume": null,
+    "pages": null,
+    "articleNumber": null,
+    "doi": null,
+    "url": null,
+    "pdf": null,
+    "featured": false,
+    "featuredOrder": 0,
+    "themeIds": []
+  },
+  {
+    "isPlaceholder": false,
+    "draft": false,
+    "updatedAt": "2026-10-27",
+    "id": "patent-2",
+    "title": "有機電子素子用材料、有機電子素子、および化合物",
+    "authors": [
+      {
+        "name": "相原秀典",
+        "memberId": null,
+        "corresponding": false,
+        "equalContribution": false
+      },
+      {
+        "name": "坂部将仁",
+        "memberId": null,
+        "corresponding": false,
+        "equalContribution": false
+      },
+      {
+        "name": "磯田恭佑",
+        "memberId": null,
+        "corresponding": false,
+        "equalContribution": false
+      },
+      {
+        "name": "佐藤宏亮",
+        "memberId": "pi",
+        "corresponding": false,
+        "equalContribution": false
+      },
+      {
+        "name": "新井信道",
+        "memberId": null,
+        "corresponding": false,
+        "equalContribution": false
+      },
+      {
+        "name": "新屋宏和",
+        "memberId": null,
+        "corresponding": false,
+        "equalContribution": false
+      },
+      {
+        "name": "岡田壮史",
+        "memberId": null,
+        "corresponding": false,
+        "equalContribution": false
+      },
+      {
+        "name": "太田恵理子",
+        "memberId": null,
+        "corresponding": false,
+        "equalContribution": false
+      }
+    ],
+    "journal": "特願2024-8165",
+    "year": 2024,
+    "type": "patent",
+    "status": "patent-application",
+    "order": 2,
+    "volume": null,
+    "pages": null,
+    "articleNumber": null,
+    "doi": null,
+    "url": null,
+    "pdf": null,
+    "featured": false,
+    "featuredOrder": 0,
+    "themeIds": []
+  },
+  {
+    "isPlaceholder": false,
+    "draft": false,
+    "updatedAt": "2026-10-27",
+    "id": "patent-3",
+    "title": "光電変換素子、光電変換素子用材料、及び化合物",
+    "authors": [
+      {
+        "name": "相原秀典",
+        "memberId": null,
+        "corresponding": false,
+        "equalContribution": false
+      },
+      {
+        "name": "佐藤宏亮",
+        "memberId": "pi",
+        "corresponding": false,
+        "equalContribution": false
+      },
+      {
+        "name": "北國智子",
+        "memberId": null,
+        "corresponding": false,
+        "equalContribution": false
+      },
+      {
+        "name": "坂部将仁",
+        "memberId": null,
+        "corresponding": false,
+        "equalContribution": false
+      },
+      {
+        "name": "新井信道",
+        "memberId": null,
+        "corresponding": false,
+        "equalContribution": false
+      },
+      {
+        "name": "岡田壮史",
+        "memberId": null,
+        "corresponding": false,
+        "equalContribution": false
+      },
+      {
+        "name": "太田恵理子",
+        "memberId": null,
+        "corresponding": false,
+        "equalContribution": false
+      }
+    ],
+    "journal": "特願2023-218814",
+    "year": 2023,
+    "type": "patent",
+    "status": "patent-application",
+    "order": 3,
+    "volume": null,
+    "pages": null,
+    "articleNumber": null,
+    "doi": null,
+    "url": null,
+    "pdf": null,
+    "featured": false,
+    "featuredOrder": 0,
+    "themeIds": []
+  },
+  {
+    "isPlaceholder": false,
+    "draft": false,
+    "updatedAt": "2026-10-27",
+    "id": "patent-4",
+    "title": "オルト構造を有するトリアジン化合物",
+    "authors": [
+      {
+        "name": "新井信道",
+        "memberId": null,
+        "corresponding": false,
+        "equalContribution": false
+      },
+      {
+        "name": "荘野智宏",
+        "memberId": null,
+        "corresponding": false,
+        "equalContribution": false
+      },
+      {
+        "name": "岡祐児",
+        "memberId": null,
+        "corresponding": false,
+        "equalContribution": false
+      },
+      {
+        "name": "中村圭介",
+        "memberId": null,
+        "corresponding": false,
+        "equalContribution": false
+      },
+      {
+        "name": "野村桂甫",
+        "memberId": null,
+        "corresponding": false,
+        "equalContribution": false
+      },
+      {
+        "name": "相原秀典",
+        "memberId": null,
+        "corresponding": false,
+        "equalContribution": false
+      },
+      {
+        "name": "中野健央",
+        "memberId": null,
+        "corresponding": false,
+        "equalContribution": false
+      },
+      {
+        "name": "早川直輝",
+        "memberId": null,
+        "corresponding": false,
+        "equalContribution": false
+      },
+      {
+        "name": "佐藤宏亮",
+        "memberId": "pi",
+        "corresponding": false,
+        "equalContribution": false
+      },
+      {
+        "name": "工藤加菜",
+        "memberId": null,
+        "corresponding": false,
+        "equalContribution": false
+      },
+      {
+        "name": "山縣拓也",
+        "memberId": null,
+        "corresponding": false,
+        "equalContribution": false
+      }
+    ],
+    "journal": "特願2023-087434",
+    "year": 2023,
+    "type": "patent",
+    "status": "patent-application",
+    "order": 4,
+    "volume": null,
+    "pages": null,
+    "articleNumber": null,
+    "doi": null,
+    "url": null,
+    "pdf": null,
+    "featured": false,
+    "featuredOrder": 0,
+    "themeIds": []
+  },
+  {
+    "isPlaceholder": false,
+    "draft": false,
+    "updatedAt": "2026-10-27",
+    "id": "patent-5",
+    "title": "光電変換素子用材料、有機薄膜、光電変換素子及び縮合環化合物",
+    "authors": [
+      {
+        "name": "相原秀典",
+        "memberId": null,
+        "corresponding": false,
+        "equalContribution": false
+      },
+      {
+        "name": "佐藤宏亮",
+        "memberId": "pi",
+        "corresponding": false,
+        "equalContribution": false
+      },
+      {
+        "name": "北國智子",
+        "memberId": null,
+        "corresponding": false,
+        "equalContribution": false
+      },
+      {
+        "name": "坂部将仁",
+        "memberId": null,
+        "corresponding": false,
+        "equalContribution": false
+      },
+      {
+        "name": "新井信道",
+        "memberId": null,
+        "corresponding": false,
+        "equalContribution": false
+      },
+      {
+        "name": "岡田壮史",
+        "memberId": null,
+        "corresponding": false,
+        "equalContribution": false
+      },
+      {
+        "name": "高橋泰裕",
+        "memberId": null,
+        "corresponding": false,
+        "equalContribution": false
+      }
+    ],
+    "journal": "特願2023-027623",
+    "year": 2023,
+    "type": "patent",
+    "status": "patent-application",
+    "order": 5,
+    "volume": null,
+    "pages": null,
+    "articleNumber": null,
+    "doi": null,
+    "url": null,
+    "pdf": null,
+    "featured": false,
+    "featuredOrder": 0,
+    "themeIds": []
+  },
+  {
+    "isPlaceholder": false,
+    "draft": false,
+    "updatedAt": "2026-10-27",
+    "id": "patent-6",
+    "title": "アジン化合物、該アジン化合物を含む有機電界発光素子用材料および有機電界発光素子",
+    "authors": [
+      {
+        "name": "上原史成",
+        "memberId": null,
+        "corresponding": false,
+        "equalContribution": false
+      },
+      {
+        "name": "山縣拓也",
+        "memberId": null,
+        "corresponding": false,
+        "equalContribution": false
+      },
+      {
+        "name": "西浦利紀",
+        "memberId": null,
+        "corresponding": false,
+        "equalContribution": false
+      },
+      {
+        "name": "佐藤宏亮",
+        "memberId": "pi",
+        "corresponding": false,
+        "equalContribution": false
+      },
+      {
+        "name": "相原秀典",
+        "memberId": null,
+        "corresponding": false,
+        "equalContribution": false
+      },
+      {
+        "name": "荘野智宏",
+        "memberId": null,
+        "corresponding": false,
+        "equalContribution": false
+      },
+      {
+        "name": "小野洋平",
+        "memberId": null,
+        "corresponding": false,
+        "equalContribution": false
+      },
+      {
+        "name": "高橋泰裕",
+        "memberId": null,
+        "corresponding": false,
+        "equalContribution": false
+      }
+    ],
+    "journal": "特願2022-539543",
+    "year": 2022,
+    "type": "patent",
+    "status": "patent-application",
+    "order": 6,
+    "volume": null,
+    "pages": null,
+    "articleNumber": null,
+    "doi": null,
+    "url": null,
+    "pdf": null,
+    "featured": false,
+    "featuredOrder": 0,
+    "themeIds": []
+  },
+  {
+    "isPlaceholder": false,
+    "draft": false,
+    "updatedAt": "2026-10-27",
+    "id": "patent-7",
+    "title": "トリアジン重合体担持カーボン触媒、およびそれを用いた触媒電極",
+    "authors": [
+      {
+        "name": "相原秀典",
+        "memberId": null,
+        "corresponding": false,
+        "equalContribution": false
+      },
+      {
+        "name": "佐藤宏亮",
+        "memberId": "pi",
+        "corresponding": false,
+        "equalContribution": false
+      }
+    ],
+    "journal": "特願2022-013861",
+    "year": 2022,
+    "type": "patent",
+    "status": "patent-application",
+    "order": 7,
+    "volume": null,
+    "pages": null,
+    "articleNumber": null,
+    "doi": null,
+    "url": null,
+    "pdf": null,
+    "featured": false,
+    "featuredOrder": 0,
+    "themeIds": []
+  },
+  {
+    "isPlaceholder": false,
+    "draft": false,
+    "updatedAt": "2026-10-27",
+    "id": "patent-8",
+    "title": "ジピリジルフェニル基を有するトリアジン化合物",
+    "authors": [
+      {
+        "name": "相原秀典",
+        "memberId": null,
+        "corresponding": false,
+        "equalContribution": false
+      },
+      {
+        "name": "佐藤宏亮",
+        "memberId": "pi",
+        "corresponding": false,
+        "equalContribution": false
+      },
+      {
+        "name": "山縣拓也",
+        "memberId": null,
+        "corresponding": false,
+        "equalContribution": false
+      },
+      {
+        "name": "新井信道",
+        "memberId": null,
+        "corresponding": false,
+        "equalContribution": false
+      },
+      {
+        "name": "野村桂甫",
+        "memberId": null,
+        "corresponding": false,
+        "equalContribution": false
+      }
+    ],
+    "journal": "特願2021-167010",
+    "year": 2021,
+    "type": "patent",
+    "status": "patent-application",
+    "order": 8,
+    "volume": null,
+    "pages": null,
+    "articleNumber": null,
+    "doi": null,
+    "url": null,
+    "pdf": null,
+    "featured": false,
+    "featuredOrder": 0,
+    "themeIds": []
+  },
+  {
+    "isPlaceholder": false,
+    "draft": false,
+    "updatedAt": "2026-10-27",
+    "id": "patent-9",
+    "title": "環状アジン化合物、有機電界発光素子用材料、有機電界発光素子用電子輸送材料、および有機電界発光素子",
+    "authors": [
+      {
+        "name": "内田直樹",
+        "memberId": null,
+        "corresponding": false,
+        "equalContribution": false
+      },
+      {
+        "name": "相原秀典",
+        "memberId": null,
+        "corresponding": false,
+        "equalContribution": false
+      },
+      {
+        "name": "山縣拓也",
+        "memberId": null,
+        "corresponding": false,
+        "equalContribution": false
+      },
+      {
+        "name": "早川直輝",
+        "memberId": null,
+        "corresponding": false,
+        "equalContribution": false
+      },
+      {
+        "name": "中嶋菜摘",
+        "memberId": null,
+        "corresponding": false,
+        "equalContribution": false
+      },
+      {
+        "name": "上原史成",
+        "memberId": null,
+        "corresponding": false,
+        "equalContribution": false
+      },
+      {
+        "name": "小野洋平",
+        "memberId": null,
+        "corresponding": false,
+        "equalContribution": false
+      },
+      {
+        "name": "平野雅也",
+        "memberId": null,
+        "corresponding": false,
+        "equalContribution": false
+      },
+      {
+        "name": "森中裕太",
+        "memberId": null,
+        "corresponding": false,
+        "equalContribution": false
+      },
+      {
+        "name": "野村桂甫",
+        "memberId": null,
+        "corresponding": false,
+        "equalContribution": false
+      },
+      {
+        "name": "太田恵理子",
+        "memberId": null,
+        "corresponding": false,
+        "equalContribution": false
+      },
+      {
+        "name": "荘野智宏",
+        "memberId": null,
+        "corresponding": false,
+        "equalContribution": false
+      },
+      {
+        "name": "尾池華奈",
+        "memberId": null,
+        "corresponding": false,
+        "equalContribution": false
+      },
+      {
+        "name": "林和史",
+        "memberId": null,
+        "corresponding": false,
+        "equalContribution": false
+      },
+      {
+        "name": "青柳圭哉",
+        "memberId": null,
+        "corresponding": false,
+        "equalContribution": false
+      },
+      {
+        "name": "佐藤宏亮",
+        "memberId": "pi",
+        "corresponding": false,
+        "equalContribution": false
+      },
+      {
+        "name": "西浦利紀",
+        "memberId": null,
+        "corresponding": false,
+        "equalContribution": false
+      }
+    ],
+    "journal": "特願2021-537002",
+    "year": 2021,
+    "type": "patent",
+    "status": "patent-application",
+    "order": 9,
+    "volume": null,
+    "pages": null,
+    "articleNumber": null,
+    "doi": null,
+    "url": null,
+    "pdf": null,
+    "featured": false,
+    "featuredOrder": 0,
+    "themeIds": []
+  },
+  {
+    "isPlaceholder": false,
+    "draft": false,
+    "updatedAt": "2026-10-27",
+    "id": "patent-10",
+    "title": "ピリジン化合物",
+    "authors": [
+      {
+        "name": "新井信道",
+        "memberId": null,
+        "corresponding": false,
+        "equalContribution": false
+      },
+      {
+        "name": "佐藤宏亮",
+        "memberId": "pi",
+        "corresponding": false,
+        "equalContribution": false
+      },
+      {
+        "name": "濱口尚斗",
+        "memberId": null,
+        "corresponding": false,
+        "equalContribution": false
+      },
+      {
+        "name": "平野雅也",
+        "memberId": null,
+        "corresponding": false,
+        "equalContribution": false
+      },
+      {
+        "name": "相原秀典",
+        "memberId": null,
+        "corresponding": false,
+        "equalContribution": false
+      },
+      {
+        "name": "山縣拓也",
+        "memberId": null,
+        "corresponding": false,
+        "equalContribution": false
+      },
+      {
+        "name": "小野洋平",
+        "memberId": null,
+        "corresponding": false,
+        "equalContribution": false
+      },
+      {
+        "name": "新屋宏和",
+        "memberId": null,
+        "corresponding": false,
+        "equalContribution": false
+      },
+      {
+        "name": "川島弘之",
+        "memberId": null,
+        "corresponding": false,
+        "equalContribution": false
+      },
+      {
+        "name": "野村桂甫",
+        "memberId": null,
+        "corresponding": false,
+        "equalContribution": false
+      }
+    ],
+    "journal": "特願2020-179283",
+    "year": 2020,
+    "type": "patent",
+    "status": "patent-application",
+    "order": 10,
+    "volume": null,
+    "pages": null,
+    "articleNumber": null,
+    "doi": null,
+    "url": null,
+    "pdf": null,
+    "featured": false,
+    "featuredOrder": 0,
+    "themeIds": []
+  },
+  {
+    "isPlaceholder": false,
+    "draft": false,
+    "updatedAt": "2026-10-27",
+    "id": "patent-11",
+    "title": "キサンテニル基を有するトリアジン化合物",
+    "authors": [
+      {
+        "name": "相原秀典",
+        "memberId": null,
+        "corresponding": false,
+        "equalContribution": false
+      },
+      {
+        "name": "山縣拓也",
+        "memberId": null,
+        "corresponding": false,
+        "equalContribution": false
+      },
+      {
+        "name": "林和史",
+        "memberId": null,
+        "corresponding": false,
+        "equalContribution": false
+      },
+      {
+        "name": "佐藤宏亮",
+        "memberId": "pi",
+        "corresponding": false,
+        "equalContribution": false
+      },
+      {
+        "name": "齋藤仁志",
+        "memberId": null,
+        "corresponding": false,
+        "equalContribution": false
+      },
+      {
+        "name": "青柳圭哉",
+        "memberId": null,
+        "corresponding": false,
+        "equalContribution": false
+      },
+      {
+        "name": "中嶋菜摘",
+        "memberId": null,
+        "corresponding": false,
+        "equalContribution": false
+      },
+      {
+        "name": "服部一希",
+        "memberId": null,
+        "corresponding": false,
+        "equalContribution": false
+      },
+      {
+        "name": "野村　桂甫",
+        "memberId": null,
+        "corresponding": false,
+        "equalContribution": false
+      }
+    ],
+    "journal": "特願2020-116624",
+    "year": 2020,
+    "type": "patent",
+    "status": "patent-application",
+    "order": 11,
+    "volume": null,
+    "pages": null,
+    "articleNumber": null,
+    "doi": null,
+    "url": null,
+    "pdf": null,
+    "featured": false,
+    "featuredOrder": 0,
+    "themeIds": []
+  },
+  {
+    "isPlaceholder": false,
+    "draft": false,
+    "updatedAt": "2026-10-27",
+    "id": "patent-12",
+    "title": "ピリジル基を有するトリアジン化合物",
+    "authors": [
+      {
+        "name": "新井信道",
+        "memberId": null,
+        "corresponding": false,
+        "equalContribution": false
+      },
+      {
+        "name": "新屋宏和",
+        "memberId": null,
+        "corresponding": false,
+        "equalContribution": false
+      },
+      {
+        "name": "川島弘之",
+        "memberId": null,
+        "corresponding": false,
+        "equalContribution": false
+      },
+      {
+        "name": "荘野智宏",
+        "memberId": null,
+        "corresponding": false,
+        "equalContribution": false
+      },
+      {
+        "name": "上原史成",
+        "memberId": null,
+        "corresponding": false,
+        "equalContribution": false
+      },
+      {
+        "name": "平野雅也",
+        "memberId": null,
+        "corresponding": false,
+        "equalContribution": false
+      },
+      {
+        "name": "野村桂甫",
+        "memberId": null,
+        "corresponding": false,
+        "equalContribution": false
+      },
+      {
+        "name": "田中剛",
+        "memberId": null,
+        "corresponding": false,
+        "equalContribution": false
+      },
+      {
+        "name": "佐藤宏亮",
+        "memberId": "pi",
+        "corresponding": false,
+        "equalContribution": false
+      },
+      {
+        "name": "濱口尚斗",
+        "memberId": null,
+        "corresponding": false,
+        "equalContribution": false
+      },
+      {
+        "name": "相原秀典",
+        "memberId": null,
+        "corresponding": false,
+        "equalContribution": false
+      }
+    ],
+    "journal": "特願2020-033474",
+    "year": 2020,
+    "type": "patent",
+    "status": "patent-application",
+    "order": 12,
+    "volume": null,
+    "pages": null,
+    "articleNumber": null,
+    "doi": null,
+    "url": null,
+    "pdf": null,
+    "featured": false,
+    "featuredOrder": 0,
+    "themeIds": []
+  },
+  {
+    "isPlaceholder": false,
+    "draft": false,
+    "updatedAt": "2026-10-27",
+    "id": "patent-13",
+    "title": "トリアジン担持カーボン触媒、及びそれを用いた触媒電極",
+    "authors": [
+      {
+        "name": "相原秀典",
+        "memberId": null,
+        "corresponding": false,
+        "equalContribution": false
+      },
+      {
+        "name": "佐藤宏亮",
+        "memberId": "pi",
+        "corresponding": false,
+        "equalContribution": false
+      }
+    ],
+    "journal": "特願2020-024839",
+    "year": 2020,
+    "type": "patent",
+    "status": "patent-application",
+    "order": 13,
+    "volume": null,
+    "pages": null,
+    "articleNumber": null,
+    "doi": null,
+    "url": null,
+    "pdf": null,
+    "featured": false,
+    "featuredOrder": 0,
+    "themeIds": []
+  },
+  {
+    "isPlaceholder": false,
+    "draft": false,
+    "updatedAt": "2026-10-27",
+    "id": "patent-14",
+    "title": "グラファイト・グラフェン用の層状構造を有する重合体",
+    "authors": [
+      {
+        "name": "緒明佑哉",
+        "memberId": null,
+        "corresponding": false,
+        "equalContribution": false
+      },
+      {
+        "name": "佐藤宏亮",
+        "memberId": "pi",
+        "corresponding": false,
+        "equalContribution": false
+      },
+      {
+        "name": "矢野翔一郎",
+        "memberId": null,
+        "corresponding": false,
+        "equalContribution": false
+      },
+      {
+        "name": "鈴木惇平",
+        "memberId": null,
+        "corresponding": false,
+        "equalContribution": false
+      }
+    ],
+    "journal": "特願2019-517594",
+    "year": 2019,
+    "type": "patent",
+    "status": "patent-application",
+    "order": 14,
+    "volume": null,
+    "pages": null,
+    "articleNumber": null,
+    "doi": null,
+    "url": null,
+    "pdf": null,
+    "featured": false,
+    "featuredOrder": 0,
+    "themeIds": []
+  },
+  {
+    "isPlaceholder": false,
+    "draft": false,
+    "updatedAt": "2026-10-27",
+    "id": "patent-15",
+    "title": "トリアジン化合物、有機電界発光素子用材料、及び有機電界発光素子",
+    "authors": [
+      {
+        "name": "新井信道",
+        "memberId": null,
+        "corresponding": false,
+        "equalContribution": false
+      },
+      {
+        "name": "山縣拓也",
+        "memberId": null,
+        "corresponding": false,
+        "equalContribution": false
+      },
+      {
+        "name": "中嶋菜摘",
+        "memberId": null,
+        "corresponding": false,
+        "equalContribution": false
+      },
+      {
+        "name": "佐藤宏亮",
+        "memberId": "pi",
+        "corresponding": false,
+        "equalContribution": false
+      },
+      {
+        "name": "相原秀典",
+        "memberId": null,
+        "corresponding": false,
+        "equalContribution": false
+      },
+      {
+        "name": "荘野智宏",
+        "memberId": null,
+        "corresponding": false,
+        "equalContribution": false
+      },
+      {
+        "name": "森中裕太",
+        "memberId": null,
+        "corresponding": false,
+        "equalContribution": false
+      },
+      {
+        "name": "野村桂甫",
+        "memberId": null,
+        "corresponding": false,
+        "equalContribution": false
+      },
+      {
+        "name": "新屋宏和",
+        "memberId": null,
+        "corresponding": false,
+        "equalContribution": false
+      },
+      {
+        "name": "川島弘之",
+        "memberId": null,
+        "corresponding": false,
+        "equalContribution": false
+      }
+    ],
+    "journal": "特願2019-211421",
+    "year": 2019,
+    "type": "patent",
+    "status": "patent-application",
+    "order": 15,
+    "volume": null,
+    "pages": null,
+    "articleNumber": null,
+    "doi": null,
+    "url": null,
+    "pdf": null,
+    "featured": false,
+    "featuredOrder": 0,
+    "themeIds": []
+  },
+  {
+    "isPlaceholder": false,
+    "draft": false,
+    "updatedAt": "2026-10-27",
+    "id": "patent-16",
+    "title": "第１４族元素を有するトリアジン化合物",
+    "authors": [
+      {
+        "name": "相原秀典",
+        "memberId": null,
+        "corresponding": false,
+        "equalContribution": false
+      },
+      {
+        "name": "山縣拓也",
+        "memberId": null,
+        "corresponding": false,
+        "equalContribution": false
+      },
+      {
+        "name": "早川直輝",
+        "memberId": null,
+        "corresponding": false,
+        "equalContribution": false
+      },
+      {
+        "name": "佐藤宏亮",
+        "memberId": "pi",
+        "corresponding": false,
+        "equalContribution": false
+      },
+      {
+        "name": "荘野智宏",
+        "memberId": null,
+        "corresponding": false,
+        "equalContribution": false
+      },
+      {
+        "name": "服部一希",
+        "memberId": null,
+        "corresponding": false,
+        "equalContribution": false
+      },
+      {
+        "name": "野村桂甫",
+        "memberId": null,
+        "corresponding": false,
+        "equalContribution": false
+      },
+      {
+        "name": "野村真太朗",
+        "memberId": null,
+        "corresponding": false,
+        "equalContribution": false
+      }
+    ],
+    "journal": "特願2019-193012",
+    "year": 2019,
+    "type": "patent",
+    "status": "patent-application",
+    "order": 16,
+    "volume": null,
+    "pages": null,
+    "articleNumber": null,
+    "doi": null,
+    "url": null,
+    "pdf": null,
+    "featured": false,
+    "featuredOrder": 3,
+    "themeIds": []
+  },
+  {
+    "isPlaceholder": false,
+    "draft": false,
+    "updatedAt": "2026-10-27",
+    "id": "patent-17",
+    "title": "オルト構造を有するトリアジン化合物",
+    "authors": [
+      {
+        "name": "新井信道",
+        "memberId": null,
+        "corresponding": false,
+        "equalContribution": false
+      },
+      {
+        "name": "荘野智宏",
+        "memberId": null,
+        "corresponding": false,
+        "equalContribution": false
+      },
+      {
+        "name": "岡祐児",
+        "memberId": null,
+        "corresponding": false,
+        "equalContribution": false
+      },
+      {
+        "name": "中村圭介",
+        "memberId": null,
+        "corresponding": false,
+        "equalContribution": false
+      },
+      {
+        "name": "野村桂甫",
+        "memberId": null,
+        "corresponding": false,
+        "equalContribution": false
+      },
+      {
+        "name": "相原秀典",
+        "memberId": null,
+        "corresponding": false,
+        "equalContribution": false
+      },
+      {
+        "name": "中野健央",
+        "memberId": null,
+        "corresponding": false,
+        "equalContribution": false
+      },
+      {
+        "name": "早川直輝",
+        "memberId": null,
+        "corresponding": false,
+        "equalContribution": false
+      },
+      {
+        "name": "佐藤宏亮",
+        "memberId": "pi",
+        "corresponding": false,
+        "equalContribution": false
+      },
+      {
+        "name": "工藤加菜",
+        "memberId": null,
+        "corresponding": false,
+        "equalContribution": false
+      }
+    ],
+    "journal": "特願2019-156526",
+    "year": 2019,
+    "type": "patent",
+    "status": "patent-application",
+    "order": 17,
+    "volume": null,
+    "pages": null,
+    "articleNumber": null,
+    "doi": null,
+    "url": null,
+    "pdf": null,
+    "featured": false,
+    "featuredOrder": 0,
+    "themeIds": []
+  },
+  {
+    "isPlaceholder": false,
+    "draft": false,
+    "updatedAt": "2026-10-27",
+    "id": "patent-18",
+    "title": "アルキルトリアジン化合物",
+    "authors": [
+      {
+        "name": "相原秀典",
+        "memberId": null,
+        "corresponding": false,
+        "equalContribution": false
+      },
+      {
+        "name": "佐藤宏亮",
+        "memberId": "pi",
+        "corresponding": false,
+        "equalContribution": false
+      },
+      {
+        "name": "西浦利紀",
+        "memberId": null,
+        "corresponding": false,
+        "equalContribution": false
+      },
+      {
+        "name": "山縣拓也",
+        "memberId": null,
+        "corresponding": false,
+        "equalContribution": false
+      },
+      {
+        "name": "新井信道",
+        "memberId": null,
+        "corresponding": false,
+        "equalContribution": false
+      },
+      {
+        "name": "荘野智宏",
+        "memberId": null,
+        "corresponding": false,
+        "equalContribution": false
+      },
+      {
+        "name": "野村桂甫",
+        "memberId": null,
+        "corresponding": false,
+        "equalContribution": false
+      },
+      {
+        "name": "田中剛",
+        "memberId": null,
+        "corresponding": false,
+        "equalContribution": false
+      }
+    ],
+    "journal": "特願2019-059631",
+    "year": 2019,
+    "type": "patent",
+    "status": "patent-application",
+    "order": 18,
+    "volume": null,
+    "pages": null,
+    "articleNumber": null,
+    "doi": null,
+    "url": null,
+    "pdf": null,
+    "featured": false,
+    "featuredOrder": 0,
+    "themeIds": []
+  },
+  {
+    "isPlaceholder": false,
+    "draft": false,
+    "updatedAt": "2026-10-27",
+    "id": "patent-19",
+    "title": "２’－アリールビフェニリル基を有するトリアジン化合物",
+    "authors": [
+      {
+        "name": "相原秀典",
+        "memberId": null,
+        "corresponding": false,
+        "equalContribution": false
+      },
+      {
+        "name": "山縣拓也",
+        "memberId": null,
+        "corresponding": false,
+        "equalContribution": false
+      },
+      {
+        "name": "中嶋菜摘",
+        "memberId": null,
+        "corresponding": false,
+        "equalContribution": false
+      },
+      {
+        "name": "佐藤宏亮",
+        "memberId": "pi",
+        "corresponding": false,
+        "equalContribution": false
+      },
+      {
+        "name": "新井信道",
+        "memberId": null,
+        "corresponding": false,
+        "equalContribution": false
+      },
+      {
+        "name": "荘野智宏",
+        "memberId": null,
+        "corresponding": false,
+        "equalContribution": false
+      },
+      {
+        "name": "野村桂甫",
+        "memberId": null,
+        "corresponding": false,
+        "equalContribution": false
+      }
+    ],
+    "journal": "特願2019-048045",
+    "year": 2019,
+    "type": "patent",
+    "status": "patent-application",
+    "order": 19,
+    "volume": null,
+    "pages": null,
+    "articleNumber": null,
+    "doi": null,
+    "url": null,
+    "pdf": null,
+    "featured": false,
+    "featuredOrder": 0,
+    "themeIds": []
+  },
+  {
+    "isPlaceholder": false,
+    "draft": false,
+    "updatedAt": "2026-10-27",
+    "id": "patent-20",
+    "title": "アザフルバレン化合物、その製造方法及び電気化学測定用組成物",
+    "authors": [
+      {
+        "name": "相原秀典",
+        "memberId": null,
+        "corresponding": false,
+        "equalContribution": false
+      },
+      {
+        "name": "中野健央",
+        "memberId": null,
+        "corresponding": false,
+        "equalContribution": false
+      },
+      {
+        "name": "佐藤宏亮",
+        "memberId": "pi",
+        "corresponding": false,
+        "equalContribution": false
+      }
+    ],
+    "journal": "特願2019-023563",
+    "year": 2019,
+    "type": "patent",
+    "status": "patent-application",
+    "order": 20,
+    "volume": null,
+    "pages": null,
+    "articleNumber": null,
+    "doi": null,
+    "url": null,
+    "pdf": null,
+    "featured": false,
+    "featuredOrder": 0,
+    "themeIds": []
+  }
+]

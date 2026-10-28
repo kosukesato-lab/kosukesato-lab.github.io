@@ -1,0 +1,15 @@
+{
+  "id": "new-member",
+  "name": { "ja": "[氏名]", "en": "[Name pending]" },
+  "group": "masters",
+  "role": { "ja": "[学年]", "en": "[Year pending]" },
+  "themeIds": [],
+  "photo": null,
+  "url": null,
+  "order": 10,
+  "status": "active",
+  "graduationYear": null,
+  "isPlaceholder": true,
+  "draft": true,
+  "updatedAt": "2026-10-27"
+}

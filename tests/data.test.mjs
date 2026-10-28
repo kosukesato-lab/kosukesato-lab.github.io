@@ -1,0 +1,21 @@
+import test from 'node:test';
+import assert from 'node:assert/strict';
+import {readDataset,validateDataset} from '../scripts/validate.mjs';
+import {matchesPublication} from '../src/lib/filter.mjs';
+const original=readDataset();const copy=()=>structuredClone(original);
+const production={contentMode:'production',siteOrigin:'https://fixture.invalid'};
+const complete=value=>{
+ if(typeof value==='string')return value.replace(/\[[^\]]+\]/g,'Fixture text');
+ if(Array.isArray(value))return value.map(complete);
+ if(value&&typeof value==='object')return Object.fromEntries(Object.entries(value).map(([k,v])=>[k,k==='isPlaceholder'?false:complete(v)]));
+ return value;
+};
+test('supplied and demo data pass validation',()=>assert.deepEqual(validateDataset(original),[]));
+test('current release content passes production validation',()=>assert.deepEqual(validateDataset(original,production),[]));
+test('production rejects an injected placeholder with file and field',()=>{const rows=copy();const site=rows.find(r=>r.kind==='site');site.data.isPlaceholder=true;site.data.overview.en='[Research overview pending]';const errors=validateDataset(rows,production);assert(errors.some(e=>e.includes('src/data/site.json')&&e.includes('isPlaceholder')));assert(errors.some(e=>e.includes('overview.en')));});
+test('completed temporary production fixture passes',()=>assert.deepEqual(validateDataset(complete(copy()),production),[]));
+test('duplicate IDs and invalid dates fail',()=>{const rows=copy();rows.push(structuredClone(rows.find(x=>x.kind==='publications')));rows.find(x=>x.kind==='news').data.date='2026-02-30';const errors=validateDataset(rows);assert(errors.some(e=>e.includes('duplicate ID')));assert(errors.some(e=>e.includes('invalid ISO date')));});
+test('missing translations, external URLs, assets and reference IDs fail',()=>{const rows=copy();rows.find(x=>x.kind==='members').data.name.en='';rows.find(x=>x.kind==='research').data.publicationIds=['absent'];rows.find(x=>x.kind==='site').data.links[0].url='#';const errors=validateDataset(rows,{assetExists:()=>false});for(const expected of ['required translation','missing or draft','external URL','missing public asset'])assert(errors.some(e=>e.includes(expected)));});
+test('draft targets cannot be referenced from visible production content',()=>{const rows=complete(copy());rows.find(x=>x.kind==='publications'&&x.data.id==='paper-27').data.draft=true;assert(validateDataset(rows,production).some(e=>e.includes('missing or draft publications reference: paper-27')));});
+test('draft placeholders themselves can be omitted in production',()=>{const rows=complete(copy());const target=structuredClone(rows.find(x=>x.kind==='publications'));target.data.id='fixture-draft-publication';target.data.draft=true;target.data.title='[Sample placeholder]';target.data.isPlaceholder=true;rows.push(target);assert.deepEqual(validateDataset(rows,production),[]);});
+test('publication filters combine conditions and ignore case',()=>{const e={year:'2026',type:'article',search:'Kosuke Sato Electrochemical Polymers'};assert(matchesPublication(e,{year:'2026',type:'article',query:' SATO '}));assert(!matchesPublication(e,{year:'2025',type:'article',query:'sato'}));assert(!matchesPublication(e,{year:'2026',type:'review',query:'sato'}));assert(!matchesPublication(e,{year:'2026',type:'article',query:'nonexistent'}));});

@@ -1,0 +1,123 @@
+{
+  "isPlaceholder": false,
+  "draft": false,
+  "updatedAt": "2026-10-28",
+  "name": {
+    "ja": "佐藤研究室",
+    "en": "Sato Lab"
+  },
+  "institution": {
+    "ja": "電気通信大学",
+    "en": "The University of Electro-Communications"
+  },
+  "department": {
+    "ja": "大学院情報理工学研究科 基盤理工学専攻",
+    "en": "Department of Engineering Science, Graduate School of Informatics and Engineering"
+  },
+  "headline": {
+    "ja": "構造と形態を設計し、\nよい材料をつくる。",
+    "en": "Designing structures and morphologies to create better materials."
+  },
+  "overview": {
+    "ja": "電気や光に関わる機能を有する固体高分子材料について、分子構造デザインや合成時の形態制御に着目して実際に合成・評価し、新奇物性の発現や既知物性の向上を目指しています。特に、電気化学が関わるエネルギー変換技術への応用、多孔性や形態が強く特性を左右する薄膜材料応用などにフォーカスしています。研究においては、有機分子の量子化学計算や、情報科学にかかる手法(マテリアルズインフォマティクス・プロセスインフォマティクス)を積極に取り入れており、構造-物性相関の解析や形態形成プロセスの理解、材料の効率的な広域探索やドメイン特化の予測技術開発につなげます。",
+    "en": "We focus on solid polymeric materials with electrical or optical functionalities, aiming to develop new physical properties or enhance existing ones through the design of molecular structures and the control of morphology during synthesis. Our research centers, in particular, on applications in electrochemical energy conversion and the development of thin-film materials, where properties are heavily influenced by porosity and morphology. In our work, we actively incorporate quantum chemical calculations of organic molecules as well as methods from information science—such as materials informatics and process informatics—to analyze structure-property relationships, understand morphological formation processes, and facilitate both the efficient, broad-scale exploration of materials and the development of domain-specific predictive techniques."
+  },
+  "philosophy": {
+    "ja": "[多角的に機能材料を設計して作って測る]\r\n(研究のコンセプト)\r\n有機化学・高分子化学・電気化学・半導体科学といった学部の授業でも耳にする化学の諸分野の隙間に、π共役系を有する高分子材料があります。有機エレクトロニクスの主役である導電性高分子や有機半導体、電池や電極触媒のようなエネルギーデバイス、分離材料まで、様々な応用への可能性を秘めた材料群です。このような材料を用いてエネルギー・環境などの関連分野で役に立つ材料を作りたい人、電気や光に応答する固体材料が面白そうと思う人、材料の合成実験にもデータ科学にも興味がある人、是非お声掛けください。\r\n(要求する能力) \r\n選択の上で前提知識や講義科目は特に指定しません。大学の基礎化学を習得し、実験の基本作法が身についていれば大丈夫です。有機合成や高分子合成、電気化学や固体物性、分析化学や材料の解析、データ科学などの基礎知識から材料応用に関わる科学まで、そのとき要請される知識を、自律的かつ積極的に勉強する姿勢が求められます。\r\n(取り組み姿勢) \r\n研究は、単なる卒業・修了のための手段である一方で、研究成果を対外発表して世間に認知することで、過去の人類がまだ知らなかったことを明らかにしたという証跡を残すことでもあります。就活等における対外的なアピール材料としての利用、自分の名前の入った成果が半永久的に残る、といった良い面がたくさんあります。全員が論文化を目指し懸命に取り組むことがグループの理想の姿です。未踏の材料に挑み、はじまりの一歩を刻む研究を目指して、日々目標に真摯に過ごし成果をアピールする意欲をもった方を、学部４年生や大学院生として歓迎します。",
+    "en": "[Designing, fabricating, and characterizing functional materials from multiple perspectives]\r\n(Research Concept)\r\nPolymeric materials containing π-conjugated systems exist in the gaps between various fields of chemistry that you might encounter in undergraduate courses such as organic chemistry, polymer chemistry, electrochemistry, and semiconductor science. These materials have the potential for a wide range of applications, from conductive polymers and organic semiconductors that play a leading role in organic electronics, to energy devices such as batteries and electrode catalysts, and separation materials. If you are interested in creating materials that are useful in related fields such as energy and the environment using such materials, if you find solid materials that respond to electricity and light interesting, or if you are interested in both material synthesis experiments and data science, please feel free to contact us.\r\n(Required Skills) \r\n There are no specific prerequisites or required prior coursework for selection. It is sufficient to have a foundational understanding of university-level chemistry and a grasp of basic laboratory practices. You will be expected to take an autonomous and proactive approach to learning—acquiring the necessary knowledge as the situation demands—covering areas ranging from organic and polymer synthesis, electrochemistry, solid-state properties, analytical chemistry, and materials characterization to data science and the science underlying materials applications.\r\n(Vision & Mission) \r\nWhile research serves as a requirement for graduation or the completion of a degree, it also offers the opportunity to share your findings with the world—thereby establishing a permanent record that you have uncovered something previously unknown to humanity. Engaging in research provides numerous benefits, such as creating a valuable asset for job applications and ensuring that your work—bearing your own name—remains accessible for the long term. Our ideal group dynamic is one where every member strives to publish their research. We welcome fourth-year undergraduates and graduate students who are eager to tackle unexplored topics, take the first steps into new territory, work diligently toward their goals, and actively showcase their achievements."
+  },
+  "environment": {
+    "ja": "材料合成のための実験ベンチや器具類、またいくつかの特性測定装置を導入しています。同じ建屋内に共用設備のNMR・電子顕微鏡・X線分析装置などがあり、便利に材料分析ができます。教育においては、理論の理解を基に実材料のふるまいを考察する、ことを重視し、スタッフとともに知識・技術の両輪をお伝えできると思います。",
+    "en": "We are equipped with laboratory benches and apparatus for material fabrication, as well as some instruments for characterization. The UEC shared facilities center, including NMR, electron microscopes, and X-ray analysis equipment, is located within the same building, allowing for convenient material analysis. In our educational approach, we place an emphasis on analyzing the behavior of actual materials based on deep understanding of theory; our staff is well-prepared to provide guidance that encompasses both the necessary theoretical knowledge and practical technical skills."
+  },
+  "keywords": {
+    "ja": [
+      "共役高分子材料",
+      "電気化学",
+      "インフォマティクス"
+    ],
+    "en": [
+      "Conjugated polymer materials",
+      "Electrochemistry",
+      "Informatics"
+    ]
+  },
+  "address": {
+    "ja": "〒182-8585 東京都調布市調布ヶ丘1-5-1 東6号館936室",
+    "en": "East-No.6 building room 936, 1-5-1 Chofugaoka, Chofu, Tokyo 182-8585, Japan"
+  },
+  "email": "kosukesato@uec.ac.jp",
+  "phone": "042-443-5487",
+  "fiscalYear": 2026,
+  "transport": {
+    "ja": "大学公式の交通・学内マップをご確認ください。",
+    "en": "Please see the official university map."
+  },
+  "mapUrl": "https://www.uec.ac.jp/about/profile/access/",
+  "admissionsUrl": null,
+  "links": [
+    {
+      "label": {
+        "ja": "電気通信大学",
+        "en": "The University of Electro-Communications"
+      },
+      "url": "https://www.uec.ac.jp/"
+    },
+    {
+      "label": {
+        "ja": "情報理工学域３類",
+        "en": "Class III (Science and Engineering)"
+      },
+      "url": "https://www.c3.uec.ac.jp/"
+    },
+    {
+      "label": {
+        "ja": "化学生命工学プログラム",
+        "en": "Chemistry and Life Science Program"
+      },
+      "url": "https://www.kagakuseimei.lab.uec.ac.jp/"
+    }
+  ],
+ "faq": [
+   {
+     "question": {
+       "ja": "研究経験は必要ですか？",
+       "en": "Do I need research experience?"
+     },
+     "answer": {
+       "ja": "学部4年生から受け入れています。化学・材料分野に興味のある学生について、大学院修士課程からでも歓迎です。",
+       "en": "We accept students starting from their fourth year of undergraduate study. Students interested in chemistry and materials science are also welcome to join our laboratory at the master's level."
+     }
+   },
+   {
+     "question": {
+       "ja": "研究室を見学できますか？",
+       "en": "Can I visit the laboratory?"
+     },
+     "answer": {
+       "ja": "可能です。事前に教員へのコンタクトをお願いします。",
+       "en": "Yes. Please contact a faculty member in advance to arrange a visit."
+     }
+   },
+   {
+     "question": {
+       "ja": "大学院進学について相談できますか？",
+       "en": "Can I discuss graduate study?"
+     },
+     "answer": {
+       "ja": "いつでも可能です。",
+       "en": "Yes. You are welcome to contact us at any time to discuss graduate study."
+     }
+   },
+   {
+     "question": {
+       "ja": "共同研究について相談できますか？",
+       "en": "Can we discuss collaboration?"
+     },
+     "answer": {
+       "ja": "歓迎です。要点をお聞きした後、大学の産学連携センターと調整になります。",
+       "en": "We welcome inquiries about research collaboration. After discussing the key details of your proposal, we will coordinate with the university's industry–academia collaboration office."
+     }
+   }
+ ]
+}

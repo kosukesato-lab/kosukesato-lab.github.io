@@ -1,0 +1,11 @@
+node_modules/
+dist/
+.astro/
+.env
+playwright-report/
+test-results/
+.fixtures/
+.preview.log
+.preview.err
+docs/screenshots/
+docs/resource-budget.json
