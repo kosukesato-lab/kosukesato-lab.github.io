@@ -1,4 +1,192 @@
 [
+  {"id": "paper-31",
+  "title": "Visible-Light-Induced Carbon–Hydrogen Phosphonylation of Conjugated Polymers via Electron Donor–Acceptor Complex Activation",
+  "authors": [
+      {
+        "name": "Tomohiro Tamano",
+        "memberId": null,
+        "corresponding": false,
+        "equalContribution": false
+      },
+      {
+        "name": "Kohei Taniguchi",
+        "memberId": "null",
+        "corresponding": false,
+        "equalContribution": false
+      },
+      {
+        "name": "Yoichiro Eriguchi",
+        "memberId": "null",
+        "corresponding": false,
+        "equalContribution": false
+      },
+      {
+        "name": "Kosuke Sato",
+        "memberId": "pi",
+        "corresponding": false,
+        "equalContribution": false
+      },
+      {
+        "name": "Shinsuke Inagi",
+        "memberId": null,
+        "corresponding": true,
+        "equalContribution": false
+      }
+    ],
+  "journal": "Angewandte Chemie International Edition, 65, e4746176 (2026)",
+  "year": 2026,
+  "volume": null,
+  "pages": null,
+  "articleNumber": null,
+  "type": "article",
+  "status": "published",
+  "order": 1,
+  "doi": null,
+  "url": null,
+  "pdf": null,
+  "featured": false,
+  "featuredOrder": 10,
+  "themeIds": [],
+  "isPlaceholder": false,
+  "draft": false,
+  "updatedAt": "2026-10-30"
+  },
+  {
+  "id": "paper-30",
+  "title": "Dual-Functional Polystyrene-Based Borate Complexes: Recyclable Alkyl Radical Sources and Photodegradable Absorbents",
+  "authors": [
+      {
+        "name": "Nami Jimba",
+        "memberId": null,
+        "corresponding": false,
+        "equalContribution": false
+      },
+      {
+        "name": "Ryosei Ishii",
+        "memberId": null,
+        "corresponding": false,
+        "equalContribution": false
+      },
+      {
+        "name": "Kazuki Wako",
+        "memberId": null,
+        "corresponding": false,
+        "equalContribution": false
+      },
+      {
+        "name": "Tomoki Hirohata",
+        "memberId": null,
+        "corresponding": false,
+        "equalContribution": false
+      },
+      {
+        "name": "Kosuke Sato",
+        "memberId": "pi",
+        "corresponding": false,
+        "equalContribution": false
+      },
+            {
+        "name": "Tomohiro Kubo",
+        "memberId": null,
+        "corresponding": false,
+        "equalContribution": false
+      },
+            {
+        "name": "Kotaro Satoh",
+        "memberId": null,
+        "corresponding": false,
+        "equalContribution": false
+      },
+      {
+        "name": "Yuto Sumida",
+        "memberId": null,
+        "corresponding": false,
+        "equalContribution": false
+      },
+      {
+        "name": "Hirohisa Ohmiya",
+        "memberId": "null",
+        "corresponding": false,
+        "equalContribution": false
+      },
+      {
+        "name": "Shinsuke Inagi",
+        "memberId": null,
+        "corresponding": true,
+        "equalContribution": false
+      }
+    ],
+  "journal": "Chemistry – A European Journal, 32, e71420 (2026)",
+  "year": 2026,
+  "volume": null,
+  "pages": null,
+  "articleNumber": null,
+  "type": "article",
+  "status": "published",
+  "order": 2,
+  "doi": null,
+  "url": null,
+  "pdf": null,
+  "featured": false,
+  "featuredOrder": 10,
+  "themeIds": [],
+  "isPlaceholder": false,
+  "draft": false,
+  "updatedAt": "2026-10-30"
+  },
+    {
+  "id": "paper-29",
+  "title": "Rational Photocatalyst Selection for Efficient Radical–Polar Crossover Phosphonylation of N-Hydroxyphthalimide Ester–Containing Polymers",
+  "authors": [
+      {
+        "name": "Yoichiro Eriguchi",
+        "memberId": null,
+        "corresponding": false,
+        "equalContribution": false
+      },
+      {
+        "name": "Kohei Taniguchi",
+        "memberId": "null",
+        "corresponding": false,
+        "equalContribution": false
+      },
+      {
+        "name": "Tomohiro Tamano",
+        "memberId": "null",
+        "corresponding": false,
+        "equalContribution": false
+      },
+      {
+        "name": "Kosuke Sato",
+        "memberId": "null",
+        "corresponding": false,
+        "equalContribution": false
+      },
+      {
+        "name": "Shinsuke Inagi",
+        "memberId": null,
+        "corresponding": true,
+        "equalContribution": false
+      }
+    ],
+  "journal": "Polymer Chemistry, 17, 4065-4071, (2026)",
+  "year": 2026,
+  "volume": null,
+  "pages": null,
+  "articleNumber": null,
+  "type": "article",
+  "status": "published",
+  "order": 3,
+  "doi": null,
+  "url": null,
+  "pdf": null,
+  "featured": false,
+  "featuredOrder": 10,
+  "themeIds": [],
+  "isPlaceholder": false,
+  "draft": false,
+  "updatedAt": "2026-10-30"
+  },
   {
     "isPlaceholder": false,
     "draft": false,
@@ -29,7 +217,7 @@
     "year": 2026,
     "type": "article",
     "status": "published",
-    "order": 1,
+    "order": 4,
     "volume": null,
     "pages": null,
     "articleNumber": null,
@@ -72,7 +260,7 @@
     "year": 2026,
     "type": "article",
     "status": "published",
-    "order": 2,
+    "order": 5,
     "volume": null,
     "pages": null,
     "articleNumber": null,
@@ -1539,7 +1727,7 @@
     "year": 2026,
     "type": "review",
     "status": "published",
-    "order": 1,
+    "order": 11,
     "volume": null,
     "pages": null,
     "articleNumber": null,
@@ -1580,7 +1768,7 @@
     "year": 2026,
     "type": "review",
     "status": "published",
-    "order": 2,
+    "order": 12,
     "volume": null,
     "pages": null,
     "articleNumber": null,
@@ -1621,7 +1809,7 @@
     "year": 2026,
     "type": "review",
     "status": "published",
-    "order": 3,
+    "order": 13,
     "volume": null,
     "pages": null,
     "articleNumber": null,
