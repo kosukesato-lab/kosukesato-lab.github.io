@@ -4,8 +4,9 @@ import memberData from '../data/members.json';
 import publicationData from '../data/publications.json';
 import activityData from '../data/activities.json';
 import { mode } from '../../config.mjs';
+import { visibleRecords } from './visibility.mjs';
 export const site=siteData;
-export const visible=<T extends {draft:boolean}>(items:T[]):T[]=>items.filter(x=>mode==='demo'||!x.draft);
+export const visible=<T extends {draft:boolean}>(items:T[]):T[]=>visibleRecords(items,mode);
 export interface ExternalProfile {label:{ja:string;en:string};url:string;}
 export const profiles=visible(people.map(p=>({...p,externalProfiles:p.externalProfiles as ExternalProfile[]})));
 type Member=Omit<typeof memberData[number],'themeIds'|'url'|'graduationYear'> & {themeIds:string[];url:string|null;graduationYear:number|null};

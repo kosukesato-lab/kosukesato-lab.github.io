@@ -2,9 +2,12 @@ import {test,expect} from '@playwright/test';
 import fs from 'node:fs';
 import path from 'node:path';
 import publications from '../../src/data/publications.json' with {type:'json'};
+import {mode} from '../../config.mjs';
+import {visibleRecords} from '../../src/lib/visibility.mjs';
 const shots='docs/screenshots';
-const total=String(publications.length);
-const matching=String(publications.filter(p=>p.year===2026&&p.type==='article'&&`${p.title} ${p.authors.map(a=>a.name).join(' ')} ${p.journal}`.toLowerCase().includes('sato')).length);
+const visiblePublications=visibleRecords(publications,mode);
+const total=String(visiblePublications.length);
+const matching=String(visiblePublications.filter(p=>p.year===2026&&p.type==='article'&&`${p.title} ${p.authors.map(a=>a.name).join(' ')} ${p.journal}`.toLowerCase().includes('sato')).length);
 test('publication AND filters, reset, no results and IME',async({page})=>{
  await page.goto('ja/publications/');await expect(page.locator('[data-count]')).toHaveText(total);
  await page.locator('#pub-search').fill('SATO');await page.locator('#pub-year').selectOption('2026');await page.locator('#pub-type').selectOption('article');await expect(page.locator('[data-count]')).toHaveText(matching);
@@ -22,10 +25,10 @@ test('mobile menu and FAQ keyboard interactions',async({page})=>{
  const faq=page.locator('summary').first();await faq.focus();await page.keyboard.press('Enter');await expect(page.locator('details').first()).toHaveAttribute('open','');
 });
 test('JavaScript disabled still exposes all publications and navigation',async({browser})=>{
- const context=await browser.newContext({javaScriptEnabled:false,viewport:{width:375,height:812}});const page=await context.newPage();await page.goto(test.info().project.use.baseURL+'ja/publications/');await expect(page.locator('[data-publication]')).toHaveCount(publications.length);await expect(page.locator('#main-nav')).toBeVisible();await page.locator('#main-nav a').filter({hasText:'研究紹介'}).first().click();await expect(page.locator('h1')).toHaveText('研究紹介');await context.close();
+ const context=await browser.newContext({javaScriptEnabled:false,viewport:{width:375,height:812}});const page=await context.newPage();await page.goto(test.info().project.use.baseURL+'ja/publications/');await expect(page.locator('[data-publication]')).toHaveCount(visiblePublications.length);await expect(page.locator('#main-nav')).toBeVisible();await page.locator('#main-nav a').filter({hasText:'研究紹介'}).first().click();await expect(page.locator('h1')).toHaveText('研究紹介');await context.close();
 });
 test('404 base-aware home links and indexing mode',async({page})=>{
- await page.goto('ja/');await expect(page.locator('meta[name=robots]')).toHaveAttribute('content',process.env.CONTENT_MODE==='demo'?'noindex, follow':'index, follow');
+ await page.goto('ja/');await expect(page.locator('meta[name=robots]')).toHaveAttribute('content',mode==='demo'?'noindex, follow':'index, follow');
  await page.goto('unknown/deep/location/');await expect(page.locator('h1')).toContainText('ページが見つかりません');await page.locator('main a').filter({hasText:'日本語ホーム'}).click();await expect(page).toHaveURL(/\/ja\/$/);
 });
 for(const width of [320,375,768,1280,1440])test(`responsive layout ${width}px`,async({page})=>{

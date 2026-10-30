@@ -6,6 +6,8 @@ JSON・Markdownの編集後、`npm run verify` と `npm run test:browser` を実
 
 この公開用フォルダの既定値はproductionです。プレースホルダーは完成させるか、対象レコードを `draft: true` にして公開対象から外します。公開中のデータからdraftへ参照を残すことはできません。
 
+業績の表示件数は、productionでは `draft: false` のレコードだけを数えます。`status: published` でも `draft: true` なら非表示です。JSONの総件数と公開件数が異なるのは正常です。原稿を編集したら、ブラウザテストの前に `npm run verify` でdistも再生成してください。プレビューはJSONから直接表示せず、生成済みのHTMLを使います。
+
 ## 基本情報と配色
 
 `src/data/site.json` の `name`、`institution`、`department`、`overview`、`address`、`email`、`phone` を編集します。`philosophy`、`environment`、`faq` は配属進学ページ、`transport`・`mapUrl` はアクセスページに使います。原稿は `{ "ja": "日本語", "en": "English" }` の組です。
