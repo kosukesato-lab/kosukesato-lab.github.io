@@ -1,4 +1,114 @@
 [
+      {"id": "paper-33",
+  "title": "Base-Free Palladium-Catalyzed Synthesis of 2-Alkoxy-1,3-Dienes from Primary Propargyl Carbonates with Benzyl Alcohols",
+  "authors": [
+      {
+        "name": "Keisuke Ai",
+        "memberId": null,
+        "corresponding": true,
+        "equalContribution": false
+      },
+      {
+        "name": "Nrumi Uchiyama",
+        "memberId": null,
+        "corresponding": false,
+        "equalContribution": false
+      },
+      {
+        "name": "Kosuke Sato",
+        "memberId": "pi",
+        "corresponding": true,
+        "equalContribution": false
+      },
+      {
+        "name": "Shinsuke Inagi",
+        "memberId": null,
+        "corresponding": true,
+        "equalContribution": false
+      }
+    ],
+  "journal": "ACS Omega (2026)",
+  "year": 2026,
+  "volume": null,
+  "pages": null,
+  "articleNumber": null,
+  "type": "article",
+  "status": "published",
+  "order": 2,
+  "doi": null,
+  "url": null,
+  "pdf": null,
+  "featured": false,
+  "featuredOrder": 10,
+  "themeIds": [],
+  "isPlaceholder": false,
+  "draft": true,
+  "updatedAt": "2026-10-30"
+  },
+    {"id": "paper-32",
+  "title": "Base-Free Palladium-Catalyzed Synthesis of 2-Alkoxy-1,3-Dienes from Primary Propargyl Carbonates with Benzyl Alcohols",
+  "authors": [
+      {
+        "name": "Yoichiro Eriguchi",
+        "memberId": null,
+        "corresponding": true,
+        "equalContribution": false
+      },
+      {
+        "name": "Masayuki Munemoto",
+        "memberId": null,
+        "corresponding": false,
+        "equalContribution": false
+      },
+      {
+        "name": "Yuichiro Tokoro",
+        "memberId": null,
+        "corresponding": false,
+        "equalContribution": false
+      },
+      {
+        "name": "Shin-Ichi Yamamoto",
+        "memberId": null,
+        "corresponding": false,
+        "equalContribution": false
+      },
+      {
+        "name": "Kosuke Sato",
+        "memberId": "pi",
+        "corresponding": false,
+        "equalContribution": false
+      },
+      {
+        "name": "Shinsuke Inagi",
+        "memberId": null,
+        "corresponding": false,
+        "equalContribution": false
+      },
+      {
+        "name": "Toshio Koizumi",
+        "memberId": null,
+        "corresponding": false,
+        "equalContribution": false
+      }
+    ],
+  "journal": "SynLett (2026)",
+  "year": 2026,
+  "volume": null,
+  "pages": null,
+  "articleNumber": null,
+  "type": "article",
+  "status": "published",
+  "order": 2,
+  "doi": "doi/10.1055/a-2983-1983",
+  "url": null,
+  "pdf": null,
+  "featured": false,
+  "featuredOrder": 10,
+  "themeIds": [],
+  "isPlaceholder": false,
+  "draft": true,
+  "updatedAt": "2026-10-30"
+  },
   {"id": "paper-31",
   "title": "Visible-Light-Induced Carbon–Hydrogen Phosphonylation of Conjugated Polymers via Electron Donor–Acceptor Complex Activation",
   "authors": [
@@ -10,13 +120,13 @@
       },
       {
         "name": "Kohei Taniguchi",
-        "memberId": "null",
+        "memberId": null,
         "corresponding": false,
         "equalContribution": false
       },
       {
         "name": "Yoichiro Eriguchi",
-        "memberId": "null",
+        "memberId": null,
         "corresponding": false,
         "equalContribution": false
       },
@@ -40,7 +150,7 @@
   "articleNumber": null,
   "type": "article",
   "status": "published",
-  "order": 1,
+  "order": 3,
   "doi": null,
   "url": null,
   "pdf": null,
@@ -105,7 +215,7 @@
       },
       {
         "name": "Hirohisa Ohmiya",
-        "memberId": "null",
+        "memberId": null,
         "corresponding": false,
         "equalContribution": false
       },
@@ -123,7 +233,7 @@
   "articleNumber": null,
   "type": "article",
   "status": "published",
-  "order": 2,
+  "order": 4,
   "doi": null,
   "url": null,
   "pdf": null,
@@ -134,7 +244,7 @@
   "draft": false,
   "updatedAt": "2026-10-30"
   },
-    {
+  {
   "id": "paper-29",
   "title": "Rational Photocatalyst Selection for Efficient Radical–Polar Crossover Phosphonylation of N-Hydroxyphthalimide Ester–Containing Polymers",
   "authors": [
@@ -146,19 +256,19 @@
       },
       {
         "name": "Kohei Taniguchi",
-        "memberId": "null",
+        "memberId": null,
         "corresponding": false,
         "equalContribution": false
       },
       {
         "name": "Tomohiro Tamano",
-        "memberId": "null",
+        "memberId": null,
         "corresponding": false,
         "equalContribution": false
       },
       {
         "name": "Kosuke Sato",
-        "memberId": "null",
+        "memberId": null,
         "corresponding": false,
         "equalContribution": false
       },
@@ -176,7 +286,7 @@
   "articleNumber": null,
   "type": "article",
   "status": "published",
-  "order": 3,
+  "order": 5,
   "doi": null,
   "url": null,
   "pdf": null,
@@ -217,7 +327,7 @@
     "year": 2026,
     "type": "article",
     "status": "published",
-    "order": 4,
+    "order": 6,
     "volume": null,
     "pages": null,
     "articleNumber": null,
@@ -260,7 +370,7 @@
     "year": 2026,
     "type": "article",
     "status": "published",
-    "order": 5,
+    "order": 7,
     "volume": null,
     "pages": null,
     "articleNumber": null,
